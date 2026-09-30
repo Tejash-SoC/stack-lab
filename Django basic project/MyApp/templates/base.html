@@ -1,0 +1,21 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Management</title>
+    <link rel="stylesheet" href="{% static 'base.css' %}">
+
+</head>
+
+<body>
+    <h1>Movies</h1>
+    <img src="{% static 'myimage.jpg' %}" alt="No image" width="500px" height="300px">
+    {% block content %}
+    {% endblock %}
+    <h6>Footer, Contact Us</h6>
+
+</body>
+
+</html>

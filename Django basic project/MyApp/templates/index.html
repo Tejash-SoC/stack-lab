@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+    {% for i in x %}<br>
+    <a href="{% url 'movie' i.id %}">{{i.Name}} - {{i.Rating}}</a><br>
+        {% if i.Rating > 4 %}
+            <span>Hit</span>
+        {% endif %}
+    {% endfor %}
+    <a href="{% url 'addMovie' %}"><button>Add Movie</button></a>
+{% endblock %} 

@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+{% block content %}
+    {{ x.Name }}<br>
+    {{ x.Rating }}<br>
+    {{ x.Description }}<br>
+    <a href="{% url 'editMovie' x.id %}"><button>Edit</button></a>
+    <a href="{% url 'deleteMovie' x.id %}"><button>Delete</button></a>
+{% endblock %}
