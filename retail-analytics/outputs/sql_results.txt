@@ -1,0 +1,84 @@
+### 01 Total revenue, profit and margin
+   revenue    profit  margin_pct
+39178156.0 7125774.0        18.2
+
+### 02 Monthly revenue with month-over-month growth (CTE + LAG)
+  month   revenue  mom_growth_pct
+2023-01  562823.0             NaN
+2023-02 1018173.0            80.9
+2023-03 1380772.0            35.6
+2023-04 1516140.0             9.8
+2023-05 1656696.0             9.3
+2023-06 1416744.0           -14.5
+2023-07 1231810.0           -13.1
+2023-08 1565378.0            27.1
+2023-09 1790826.0            14.4
+2023-10 2158228.0            20.5
+2023-11 2039695.0            -5.5
+2023-12 1621603.0           -20.5
+2024-01 1906364.0            17.6
+2024-02 1230647.0           -35.4
+2024-03 1703386.0            38.4
+2024-04 2087871.0            22.6
+2024-05 1348160.0           -35.4
+2024-06 1821903.0            35.1
+2024-07 2149691.0            18.0
+2024-08 1844041.0           -14.2
+2024-09 1969612.0             6.8
+2024-10 1489024.0           -24.4
+2024-11 1889883.0            26.9
+2024-12 1778690.0            -5.9
+
+### 03 Category revenue vs margin
+      category    revenue  margin_pct  revenue_share_pct
+   Electronics 28478176.0         8.4               72.7
+Home & Kitchen  3683706.0        37.2                9.4
+       Fashion  3319571.0        52.0                8.5
+        Sports  2316820.0        42.7                5.9
+        Beauty  1011199.0        58.5                2.6
+       Grocery   368685.0        16.3                0.9
+
+### 04 Margin by discount level
+ discount_pct  order_lines  margin_pct
+            0         4854        25.3
+            5         2030        20.6
+           10         1209        15.4
+           15          688         7.1
+           20          468         2.2
+           30          268       -15.8
+
+### 05 Top 10 customers by revenue (window RANK)
+ rnk  customer_id  orders  revenue
+   1         2694       5 130630.0
+   2          972       2 124578.0
+   3          483       5 118442.0
+   4          819       3 116820.0
+   5         1620       2 110016.0
+   6         1863       5 107452.0
+   7          565       4 106251.0
+   8         1521       6 104471.0
+   9          713       3 100169.0
+  10          318       3  99945.0
+
+### 06 Repeat-customer rate
+ customers  repeat_customers  repeat_rate_pct
+      2913              1587             54.5
+
+### 07 Repeat rate by acquisition channel
+acquisition_channel  customers  repeat_rate_pct
+           Referral        272             75.4
+              Email        414             72.0
+            Organic        907             60.0
+        Paid Search        725             45.7
+       Social Media        595             35.1
+
+### 08 Customers at risk: 2+ orders but nothing in the last 90 days
+ at_risk_customers
+              1234
+
+### 09 Average rating by days late
+         bucket  rated_orders  avg_rating
+      1 On time          2432        4.43
+2 1-2 days late          1079        4.30
+3 3-4 days late           282        3.71
+ 4 5+ days late            46        2.74

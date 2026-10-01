@@ -1,0 +1,158 @@
+{
+  "data_quality": {
+    "duplicate_order_rows": 59,
+    "missing_city": 40,
+    "city_spellings_before": 19,
+    "cancelled_orders": 306,
+    "returned_orders": 163,
+    "city_spellings_after": 11
+  },
+  "kpis": {
+    "revenue": 39178155.5,
+    "profit": 7125774.34,
+    "orders": 5446,
+    "customers": 2913,
+    "aov": 7193.932335659199,
+    "margin_pct": 18.188131240634846,
+    "repeat_rate_pct": 54.4799176107106
+  },
+  "revenue_by_year": {
+    "2023": 17958885.5,
+    "2024": 21219270.0
+  },
+  "festive_share_pct": {
+    "2023": 23.3751866172319,
+    "2024": 15.923764106870783
+  },
+  "yoy_growth_pct": 18.154715113028598,
+  "categories": {
+    "Electronics": {
+      "revenue": 28478175.5,
+      "margin_pct": 8.397597381194592
+    },
+    "Home & Kitchen": {
+      "revenue": 3683706.0,
+      "margin_pct": 37.154128478222745
+    },
+    "Fashion": {
+      "revenue": 3319570.5,
+      "margin_pct": 51.993581097313644
+    },
+    "Sports": {
+      "revenue": 2316820.0,
+      "margin_pct": 42.65146623388955
+    },
+    "Beauty": {
+      "revenue": 1011199.0,
+      "margin_pct": 58.479620727473026
+    },
+    "Grocery": {
+      "revenue": 368684.5,
+      "margin_pct": 16.321906670879844
+    }
+  },
+  "loss_making": {
+    "lines": 315,
+    "share_of_lines_pct": 3.3098665545865296,
+    "total_loss": 442611.91000000003,
+    "by_category": {
+      "Electronics": 441529.47000000003,
+      "Grocery": 1082.4400000000005
+    }
+  },
+  "margin_by_discount": {
+    "0": 25.275798522492423,
+    "5": 20.570190439597543,
+    "10": 15.353176697137231,
+    "15": 7.123960300039195,
+    "20": 2.2059839745206395,
+    "30": -15.75836192238598
+  },
+  "channels": {
+    "Email": {
+      "repeat_rate_pct": 71.98067632850241,
+      "revenue_per_customer": 16618.50966183575
+    },
+    "Referral": {
+      "repeat_rate_pct": 75.36764705882352,
+      "revenue_per_customer": 16371.207720588236
+    },
+    "Organic": {
+      "repeat_rate_pct": 59.977949283351705,
+      "revenue_per_customer": 14484.5611907387
+    },
+    "Paid Search": {
+      "repeat_rate_pct": 45.6551724137931,
+      "revenue_per_customer": 12109.669655172414
+    },
+    "Social Media": {
+      "repeat_rate_pct": 35.12605042016806,
+      "revenue_per_customer": 9963.221008403361
+    }
+  },
+  "rfm": {
+    "Needs attention": {
+      "customer_share_pct": 26.50188808788191,
+      "revenue_share_pct": 23.265087096813428
+    },
+    "Loyal": {
+      "customer_share_pct": 15.207689667009955,
+      "revenue_share_pct": 22.499577602626033
+    },
+    "Champions": {
+      "customer_share_pct": 7.483693786474426,
+      "revenue_share_pct": 18.939852847334787
+    },
+    "At risk": {
+      "customer_share_pct": 12.667353244078269,
+      "revenue_share_pct": 14.948845664773575
+    },
+    "Hibernating": {
+      "customer_share_pct": 20.90628218331617,
+      "revenue_share_pct": 10.687700700968426
+    },
+    "New customers": {
+      "customer_share_pct": 17.23309303123927,
+      "revenue_share_pct": 9.65893608748375
+    }
+  },
+  "avg_retention_pct": {
+    "1": 20.29802086117552,
+    "2": 16.59468352212045,
+    "3": 12.566253933059123
+  },
+  "delay_vs_rating": {
+    "On time": 4.425164473684211,
+    "1\u20132 days late": 4.301204819277109,
+    "3\u20134 days late": 3.7056737588652484,
+    "5+ days late": 2.739130434782609
+  },
+  "slowest_cities": {
+    "Jaipur": {
+      "days": 6.01171875,
+      "rating": 4.2628571428571425
+    },
+    "Lucknow": {
+      "days": 6.5606060606060606,
+      "rating": 4.108108108108108
+    },
+    "Patna": {
+      "days": 7.083700440528634,
+      "rating": 4.006329113924051
+    }
+  },
+  "fastest_cities": {
+    "Bengaluru": {
+      "days": 4.580645161290323,
+      "rating": 4.372972972972973
+    },
+    "Mumbai": {
+      "days": 4.6,
+      "rating": 4.359756097560975
+    },
+    "Delhi": {
+      "days": 4.811475409836065,
+      "rating": 4.378066378066378
+    }
+  }
+}

@@ -1,0 +1,3001 @@
+customer_id,signup_date,city,acquisition_channel
+1,2024-07-17,Bengaluru,Organic
+2,2023-05-02,Jaipur,Paid Search
+3,2023-08-01,Chennai,Paid Search
+4,2024-10-18,Chennai,Organic
+5,2024-12-03,Patna,Social Media
+6,2024-02-17,Bengaluru,Organic
+7,2023-11-14,Bengaluru,Paid Search
+8,2023-09-04,Lucknow,Social Media
+9,2024-03-10,Delhi,Organic
+10,2024-02-24,Pune,Organic
+11,2023-07-29,Pune,Organic
+12,2023-01-17,Mumbai,Organic
+13,2023-04-18,Bangalore,Paid Search
+14,2024-11-11,Delhi,Organic
+15,2023-10-24,Delhi,Organic
+16,2023-12-09,Bengaluru,Email
+17,2023-11-28,Delhi,Email
+18,2024-07-09,Kolkata,Organic
+19,2023-02-16,,Paid Search
+20,2023-02-28,Kolkata,Paid Search
+21,2023-07-15,Delhi,Referral
+22,2023-12-12,,Referral
+23,2024-04-21,Delhi,Organic
+24,2023-12-15,Mumbai,Organic
+25,2023-11-10,Lucknow,Paid Search
+26,2024-10-27,Bengaluru,Email
+27,2023-04-25,Delhi,Email
+28,2024-02-10,,Organic
+29,2024-01-20,Bengaluru,Social Media
+30,2023-12-03,Mumbai,Organic
+31,2024-07-27,Mumbai,Social Media
+32,2023-07-09,Chennai,Email
+33,2024-11-08,Pune,Paid Search
+34,2023-08-24,Delhi,Organic
+35,2024-01-22,Lucknow,Social Media
+36,2024-01-05,Kolkata,Paid Search
+37,2024-08-26,Kolkata,Referral
+38,2023-11-08,Delhi,Paid Search
+39,2023-07-22,Mumbai,Email
+40,2023-01-16,Jaipur,Organic
+41,2023-09-16,Delhi,Organic
+42,2024-08-09,HYDERABAD,Paid Search
+43,2023-01-08,Pune,Organic
+44,2024-09-28,Mumbai,Organic
+45,2024-01-21,Pune,Social Media
+46,2023-04-10,Lucknow,Organic
+47,2023-08-03,Pune,Organic
+48,2024-01-29,Bengaluru,Organic
+49,2023-08-13,,Organic
+50,2023-03-19,Hyderabad,Email
+51,2024-04-17,Pune,Email
+52,2024-04-22,Kolkata,Organic
+53,2023-03-26,Pune,Referral
+54,2023-07-19,Delhi,Social Media
+55,2023-06-23,Mumbai,Email
+56,2024-04-13,delhi,Paid Search
+57,2024-06-02,Hyderabad,Organic
+58,2024-05-31,Hyderabad,Paid Search
+59,2024-10-28,Hyderabad,Email
+60,2024-06-29,Bengaluru,Social Media
+61,2023-08-16,Pune,Paid Search
+62,2023-03-18,Lucknow,Organic
+63,2024-03-12,Delhi,Social Media
+64,2024-10-12,Pune,Email
+65,2024-11-23,Chennai,Paid Search
+66,2023-06-13,Hyderabad,Social Media
+67,2023-06-17,New Delhi,Paid Search
+68,2023-01-27,Kolkata,Paid Search
+69,2023-04-11,Patna,Paid Search
+70,2024-01-29,Pune,Referral
+71,2024-01-24,Lucknow,Email
+72,2023-09-21,Patna,Paid Search
+73,2023-08-09,Bengaluru,Paid Search
+74,2024-08-12,Chennai,Paid Search
+75,2023-11-23,Bengaluru,Organic
+76,2024-07-27,Patna,Organic
+77,2024-11-14,mumbai,Organic
+78,2023-08-14,Bengaluru,Paid Search
+79,2023-05-24,Jaipur,Organic
+80,2024-11-07,Delhi,Paid Search
+81,2024-03-26,Pune,Referral
+82,2023-07-26,Bengaluru,Organic
+83,2024-03-17,Patna,Social Media
+84,2024-01-01,Jaipur,Email
+85,2024-10-04,Delhi,Social Media
+86,2023-07-01,Pune,Organic
+87,2024-12-04,Delhi,Paid Search
+88,2024-10-26,Hyderabad,Social Media
+89,2023-05-09,Chennai,Paid Search
+90,2023-04-27,Kolkata,Organic
+91,2024-01-14,Mumbai,Paid Search
+92,2023-02-01,Delhi,Paid Search
+93,2023-08-01,Pune,Organic
+94,2023-11-05,Hyderabad,Social Media
+95,2024-11-19,Bengaluru,Organic
+96,2024-12-05,Mumbai,Paid Search
+97,2023-04-18,Bengaluru,Referral
+98,2024-09-25,Jaipur,Organic
+99,2023-03-06,Mumbai,Social Media
+100,2024-06-15,Bengaluru,Paid Search
+101,2024-08-23,Lucknow,Paid Search
+102,2024-09-24,Mumbai,Email
+103,2023-06-08,Pune,Paid Search
+104,2024-09-26,Delhi,Organic
+105,2023-03-24,Jaipur,Email
+106,2024-01-04,Pune,Social Media
+107,2023-11-30,Jaipur,Social Media
+108,2023-08-13,Delhi,Organic
+109,2023-01-16,Hyderabad,Organic
+110,2024-07-02,Pune,Social Media
+111,2023-08-27,Delhi,Organic
+112,2024-04-14,Delhi,Organic
+113,2023-10-19,Mumbai,Referral
+114,2023-09-23,Lucknow,Organic
+115,2024-09-21,Pune,Organic
+116,2023-03-09,Chennai,Organic
+117,2024-06-06,Pune,Paid Search
+118,2024-06-14,Hyderabad,Social Media
+119,2023-09-27,Bengaluru,Email
+120,2023-07-06,Bengaluru,Organic
+121,2023-01-04,Chennai,Organic
+122,2024-10-27,delhi,Paid Search
+123,2024-11-03,Jaipur,Paid Search
+124,2023-06-21,Kolkata,Paid Search
+125,2023-01-23,Bengaluru,Email
+126,2023-03-29,Hyderabad,Paid Search
+127,2023-02-18,Mumbai,Paid Search
+128,2024-08-13,Patna,Email
+129,2024-09-25,Jaipur,Organic
+130,2023-04-19,Lucknow,Email
+131,2024-06-14,delhi,Paid Search
+132,2023-05-08,Mumbai,Paid Search
+133,2023-09-18,Delhi,Email
+134,2024-03-01,Mumbai,Paid Search
+135,2024-05-26,Mumbai,Paid Search
+136,2024-09-12,Mumbai ,Organic
+137,2023-02-01,Patna,Social Media
+138,2023-05-20,Mumbai,Social Media
+139,2023-07-19,Mumbai,Organic
+140,2023-08-09,Kolkata,Social Media
+141,2024-12-09,Hyderabad,Social Media
+142,2024-07-05,Pune,Paid Search
+143,2023-08-16,Chennai,Organic
+144,2024-11-20,Jaipur,Paid Search
+145,2023-12-21,Chennai,Organic
+146,2023-12-22,HYDERABAD,Organic
+147,2023-11-04,Pune,Paid Search
+148,2023-04-13,Bengaluru,Organic
+149,2024-10-25,Bangalore,Organic
+150,2023-01-10,Bengaluru,Social Media
+151,2023-05-04,Mumbai,Paid Search
+152,2023-06-13,Kolkata,Email
+153,2023-07-18,Delhi,Email
+154,2023-04-04,Mumbai ,Social Media
+155,2023-01-13,Delhi,Email
+156,2024-04-26,Kolkata,Email
+157,2024-11-19,Delhi,Paid Search
+158,2023-03-28,Chennai,Social Media
+159,2023-07-30,Kolkata,Organic
+160,2023-12-26,Mumbai,Social Media
+161,2024-10-20,Pune,Paid Search
+162,2024-05-07,Delhi,Organic
+163,2024-06-27,Delhi,Organic
+164,2024-02-17,Chennai,Email
+165,2023-10-24,Jaipur,Paid Search
+166,2023-05-22,delhi,Organic
+167,2024-09-05,Hyderabad,Organic
+168,2024-07-24,New Delhi,Paid Search
+169,2023-01-18,Hyderabad,Referral
+170,2024-05-22,Chennai,Referral
+171,2023-03-01,Hyderabad,Paid Search
+172,2024-06-08,Chennai,Organic
+173,2024-08-09,Mumbai,Organic
+174,2023-04-04,Chennai,Paid Search
+175,2023-11-05,Chennai,Referral
+176,2023-03-29,Chennai,Social Media
+177,2024-02-07,Mumbai,Paid Search
+178,2024-10-20,Bengaluru,Social Media
+179,2023-02-27,Bengaluru,Paid Search
+180,2023-10-10,Mumbai,Social Media
+181,2024-11-21,Delhi,Paid Search
+182,2023-08-02,Bengaluru,Social Media
+183,2023-04-04,Pune,Paid Search
+184,2023-12-13,Delhi,Email
+185,2023-12-27,Kolkata,Paid Search
+186,2024-04-15,Hyderabad,Organic
+187,2023-08-11,Pune,Organic
+188,2024-11-09,BENGALURU ,Paid Search
+189,2024-01-05,Bengaluru,Paid Search
+190,2023-07-23,Hyderabad,Social Media
+191,2024-11-12,Lucknow,Social Media
+192,2024-10-18,Bengaluru,Organic
+193,2023-12-21,Hyderabad,Social Media
+194,2023-01-18,Hyderabad,Social Media
+195,2024-02-28,Pune,Paid Search
+196,2024-01-30,Mumbai,Paid Search
+197,2023-04-16,Hyderabad,Organic
+198,2024-03-26,BENGALURU ,Paid Search
+199,2024-08-19,,Referral
+200,2023-03-17,Bengaluru,Email
+201,2024-05-28,Bengaluru,Social Media
+202,2023-04-10,Patna,Organic
+203,2024-06-15,Bengaluru,Social Media
+204,2023-10-25,New Delhi,Social Media
+205,2023-01-05,Delhi,Paid Search
+206,2024-11-17,Mumbai,Referral
+207,2023-04-28,Mumbai,Organic
+208,2024-02-28,Bengaluru,Organic
+209,2023-05-09,Pune,Organic
+210,2024-10-24,Pune,Organic
+211,2024-06-08,Mumbai,Email
+212,2024-07-25,Hyderabad,Paid Search
+213,2023-11-03,Mumbai,Organic
+214,2023-11-28,Lucknow,Paid Search
+215,2024-03-26,Mumbai,Paid Search
+216,2024-07-11,Chennai,Paid Search
+217,2024-08-24,Delhi,Organic
+218,2023-01-13,Chennai,Social Media
+219,2024-04-16,Bengaluru,Organic
+220,2023-03-19,Pune,Referral
+221,2023-07-24,Delhi,Organic
+222,2024-08-11,Jaipur,Social Media
+223,2023-06-27,Hyderabad,Referral
+224,2024-07-19,Pune,Organic
+225,2023-11-25,Kolkata,Organic
+226,2023-06-15,Patna,Email
+227,2023-08-26,Delhi,Paid Search
+228,2024-01-12,,Social Media
+229,2024-06-27,Delhi,Organic
+230,2024-03-06,Delhi,Organic
+231,2024-10-24,Hyderabad,Paid Search
+232,2024-09-08,Patna,Email
+233,2024-06-18,Patna,Organic
+234,2024-03-04,,Referral
+235,2023-07-25,Chennai,Social Media
+236,2023-10-20,Kolkata,Organic
+237,2023-03-26,Lucknow,Organic
+238,2023-09-23,Delhi,Organic
+239,2024-10-19,Hyderabad,Paid Search
+240,2023-10-30,Kolkata,Social Media
+241,2023-03-22,Delhi,Paid Search
+242,2024-04-07,Bengaluru,Organic
+243,2024-11-14,Patna,Social Media
+244,2024-09-07,Patna,Social Media
+245,2023-07-14,Jaipur,Paid Search
+246,2023-11-19,Kolkata,Social Media
+247,2024-01-13,Delhi,Organic
+248,2023-06-25,Delhi,Social Media
+249,2023-07-10,Hyderabad,Paid Search
+250,2023-06-18,Hyderabad,Paid Search
+251,2024-12-07,Hyderabad,Organic
+252,2024-06-13,Chennai,Social Media
+253,2024-08-20,Bengaluru,Social Media
+254,2024-08-02,Pune,Paid Search
+255,2024-11-11,Delhi,Email
+256,2023-03-16,Delhi,Referral
+257,2024-09-17,Mumbai,Organic
+258,2023-02-17,Delhi,Social Media
+259,2023-12-04,Kolkata,Paid Search
+260,2024-02-27,Bengaluru,Email
+261,2023-09-12,Delhi,Organic
+262,2023-04-14,Pune,Organic
+263,2023-05-17,Hyderabad,Paid Search
+264,2024-08-08,Mumbai,Organic
+265,2023-08-15,Delhi,Social Media
+266,2023-08-09,Delhi,Paid Search
+267,2024-10-17,Chennai,Organic
+268,2023-04-13,New Delhi,Paid Search
+269,2024-10-11,Mumbai,Email
+270,2024-10-15,Mumbai ,Referral
+271,2024-02-29,Hyderabad,Paid Search
+272,2023-04-28,Mumbai,Organic
+273,2023-04-21,Kolkata,Organic
+274,2023-07-22,Mumbai,Email
+275,2024-02-14,Hyderabad,Social Media
+276,2023-04-20,Bengaluru,Social Media
+277,2023-11-20,Bengaluru,Email
+278,2023-03-23,Mumbai,Organic
+279,2024-01-19,Kolkata,Social Media
+280,2023-01-16,Jaipur,Organic
+281,2024-05-18,Mumbai,Organic
+282,2023-02-09,Delhi,Paid Search
+283,2023-05-19,Jaipur,Paid Search
+284,2023-05-04,Hyderabad,Email
+285,2024-08-13,Mumbai,Paid Search
+286,2023-02-07,delhi,Referral
+287,2023-11-01,Chennai,Social Media
+288,2024-02-24,Pune,Social Media
+289,2024-01-02,Hyderabad,Email
+290,2024-04-28,Lucknow,Paid Search
+291,2024-07-24,Bengaluru,Paid Search
+292,2023-10-07,Delhi,Organic
+293,2024-08-11,Bengaluru,Organic
+294,2023-08-14,Bengaluru,Email
+295,2024-11-29,Delhi,Paid Search
+296,2023-12-25,Mumbai,Paid Search
+297,2024-06-06,Bengaluru,Organic
+298,2024-09-13,Pune,Paid Search
+299,2024-07-16,Mumbai,Social Media
+300,2024-08-27,Bengaluru,Organic
+301,2024-01-16,Chennai,Referral
+302,2023-01-31,Hyderabad,Social Media
+303,2023-12-17,Pune,Referral
+304,2023-05-09,Kolkata,Organic
+305,2024-09-23,Pune,Social Media
+306,2023-06-18,Mumbai,Organic
+307,2023-06-11,Bengaluru,Paid Search
+308,2023-06-27,Hyderabad,Social Media
+309,2024-04-01,Delhi,Social Media
+310,2024-02-10,Mumbai,Organic
+311,2024-11-04,Delhi,Email
+312,2023-10-23,Bengaluru,Organic
+313,2023-07-20,Bengaluru,Social Media
+314,2023-02-04,Delhi,Email
+315,2023-01-06,Kolkata,Paid Search
+316,2023-09-23,Lucknow,Referral
+317,2024-10-19,Delhi,Social Media
+318,2024-01-07,Lucknow,Referral
+319,2024-09-26,Mumbai,Social Media
+320,2023-03-14,Lucknow,Social Media
+321,2023-03-08,Lucknow,Organic
+322,2024-08-14,Mumbai,Social Media
+323,2023-03-17,Pune,Organic
+324,2023-02-06,Patna,Email
+325,2023-10-14,Jaipur,Organic
+326,2024-10-18,Patna,Organic
+327,2024-05-04,Hyderabad,Email
+328,2023-03-12,Mumbai,Organic
+329,2024-08-17,Kolkata,Paid Search
+330,2024-08-21,Hyderabad,Social Media
+331,2024-07-22,Hyderabad,Organic
+332,2024-10-02,Bengaluru,Organic
+333,2023-06-20,Hyderabad,Paid Search
+334,2024-11-26,Mumbai,Organic
+335,2023-08-16,Pune,Organic
+336,2024-07-23,,Organic
+337,2024-02-16,Pune,Paid Search
+338,2024-07-07,Kolkata,Paid Search
+339,2024-03-21,Bengaluru,Organic
+340,2024-04-01,Hyderabad,Social Media
+341,2024-03-13,Delhi,Social Media
+342,2024-07-07,Patna,Organic
+343,2024-06-08,Pune,Paid Search
+344,2023-04-06,Bengaluru,Email
+345,2024-08-09,Delhi,Social Media
+346,2024-01-16,Delhi,Paid Search
+347,2023-08-18,Bengaluru,Paid Search
+348,2024-01-01,Lucknow,Organic
+349,2024-11-17,Pune,Referral
+350,2024-08-31,Delhi,Email
+351,2024-08-14,Kolkata,Email
+352,2023-11-25,Bangalore,Organic
+353,2024-07-10,Kolkata,Paid Search
+354,2023-10-01,Delhi,Organic
+355,2024-05-02,Hyderabad,Paid Search
+356,2024-03-30,Lucknow,Paid Search
+357,2023-06-27,Delhi,Social Media
+358,2023-07-09,Chennai,Organic
+359,2023-02-13,Patna,Email
+360,2023-04-10,Mumbai,Organic
+361,2023-11-04,mumbai,Organic
+362,2023-12-06,Chennai,Email
+363,2023-04-28,Delhi,Social Media
+364,2023-10-23,Mumbai,Paid Search
+365,2024-03-04,Bengaluru,Social Media
+366,2023-06-15,Pune,Organic
+367,2023-08-29,Delhi,Organic
+368,2023-09-18,Delhi,Paid Search
+369,2023-12-25,Kolkata,Paid Search
+370,2023-09-18,Hyderabad,Social Media
+371,2024-06-07,Kolkata,Organic
+372,2023-08-21,Bengaluru,Social Media
+373,2023-11-05,Lucknow,Referral
+374,2023-09-27,Chennai,Organic
+375,2023-05-10,Mumbai,Organic
+376,2024-05-01,Jaipur,Paid Search
+377,2023-06-17,Bengaluru,Referral
+378,2023-07-30,Mumbai,Social Media
+379,2024-07-16,Mumbai,Social Media
+380,2024-11-04,Chennai,Paid Search
+381,2024-04-21,Mumbai,Organic
+382,2024-10-12,New Delhi,Paid Search
+383,2024-08-29,Mumbai,Organic
+384,2023-12-08,Bengaluru,Social Media
+385,2024-06-30,Bengaluru,Organic
+386,2023-08-22,Hyderabad,Organic
+387,2023-11-23,Delhi,Paid Search
+388,2024-01-16,Mumbai,Paid Search
+389,2024-11-12,Hyderabad,Social Media
+390,2024-08-25,Bengaluru,Paid Search
+391,2023-12-14,Chennai,Email
+392,2024-04-08,Mumbai,Referral
+393,2023-05-24,Mumbai,Email
+394,2024-07-25,Delhi,Social Media
+395,2024-01-28,Bengaluru,Social Media
+396,2024-01-14,Bengaluru,Social Media
+397,2024-06-28,Kolkata,Paid Search
+398,2024-03-25,Bengaluru,Paid Search
+399,2023-02-21,Hyderabad,Social Media
+400,2023-07-24,Hyderabad,Organic
+401,2023-05-06,Mumbai ,Organic
+402,2024-06-05,Hyderabad,Email
+403,2023-01-25,Bengaluru,Organic
+404,2023-05-24,Bengaluru,Paid Search
+405,2024-02-29,Mumbai,Social Media
+406,2024-05-08,Pune,Organic
+407,2023-12-24,Lucknow,Email
+408,2024-09-03,Mumbai,Organic
+409,2024-10-14,Hyderabad,Email
+410,2023-04-04,Pune,Referral
+411,2024-11-07,Delhi,Organic
+412,2024-03-12,Pune,Organic
+413,2024-03-27,Chennai,Paid Search
+414,2023-03-09,Lucknow,Paid Search
+415,2024-03-17,Patna,Organic
+416,2024-05-30,Mumbai,Email
+417,2024-02-17,Bangalore,Organic
+418,2023-03-01,Hyderabad,Referral
+419,2024-01-07,Mumbai,Organic
+420,2024-10-26,New Delhi,Email
+421,2024-05-28,Patna,Organic
+422,2023-04-08,Mumbai,Paid Search
+423,2024-11-12,Bengaluru,Social Media
+424,2024-11-11,Kolkata,Organic
+425,2023-05-01,Delhi,Referral
+426,2024-07-22,Bengaluru,Organic
+427,2023-10-16,Patna,Paid Search
+428,2024-02-26,Bengaluru,Paid Search
+429,2023-11-13,Mumbai ,Social Media
+430,2024-07-09,Mumbai,Organic
+431,2024-12-08,Lucknow,Organic
+432,2024-07-18,New Delhi,Organic
+433,2024-10-23,Hyderabad,Paid Search
+434,2024-11-02,Mumbai,Organic
+435,2023-03-05,Bengaluru,Email
+436,2023-06-29,Lucknow,Paid Search
+437,2024-05-27,hyderabad,Social Media
+438,2024-02-23,Patna,Paid Search
+439,2023-02-05,Delhi,Organic
+440,2023-03-09,Hyderabad,Paid Search
+441,2024-01-05,Kolkata,Organic
+442,2024-03-13,Bengaluru,Paid Search
+443,2023-04-30,Delhi,Paid Search
+444,2023-05-02,Kolkata,Paid Search
+445,2023-04-02,Bengaluru,Email
+446,2024-02-06,Hyderabad,Organic
+447,2023-01-06,Patna,Paid Search
+448,2024-02-11,delhi,Organic
+449,2023-12-04,Delhi,Paid Search
+450,2023-11-27,Mumbai,Social Media
+451,2024-04-27,Bengaluru,Organic
+452,2024-01-07,Delhi,Social Media
+453,2024-05-31,Chennai,Paid Search
+454,2024-06-26,Delhi,Organic
+455,2024-10-15,Chennai,Email
+456,2024-07-21,Delhi,Paid Search
+457,2024-01-03,Bengaluru,Referral
+458,2023-12-16,Bengaluru,Paid Search
+459,2023-06-17,Pune,Email
+460,2024-03-01,Bengaluru,Organic
+461,2023-04-09,Bengaluru,Paid Search
+462,2024-10-23,Kolkata,Referral
+463,2024-08-22,Hyderabad,Paid Search
+464,2023-03-27,delhi,Paid Search
+465,2024-07-12,Jaipur,Email
+466,2023-03-25,Bengaluru,Social Media
+467,2024-05-27,mumbai,Social Media
+468,2023-03-04,BENGALURU ,Social Media
+469,2023-12-13,Mumbai,Referral
+470,2024-04-12,Delhi,Email
+471,2024-06-01,Pune,Social Media
+472,2023-10-25,mumbai,Organic
+473,2024-10-16,Kolkata,Organic
+474,2024-07-03,Lucknow,Social Media
+475,2023-05-28,Hyderabad,Referral
+476,2024-04-21,Pune,Paid Search
+477,2024-06-02,Pune,Organic
+478,2023-08-25,Patna,Organic
+479,2024-06-08,Bengaluru,Paid Search
+480,2024-09-29,Mumbai,Referral
+481,2024-08-03,Hyderabad,Organic
+482,2024-06-25,Hyderabad,Social Media
+483,2024-03-26,Delhi,Referral
+484,2023-07-12,Hyderabad,Email
+485,2024-07-18,Mumbai,Organic
+486,2023-09-16,Lucknow,Email
+487,2024-01-13,Delhi,Social Media
+488,2023-08-12,Mumbai,Referral
+489,2023-08-11,Mumbai,Organic
+490,2023-04-22,Delhi,Paid Search
+491,2024-11-13,Delhi,Social Media
+492,2023-04-15,Mumbai,Paid Search
+493,2023-03-03,Delhi,Paid Search
+494,2024-10-26,Delhi,Social Media
+495,2024-01-30,Bengaluru,Social Media
+496,2023-11-07,Bengaluru,Organic
+497,2024-06-07,New Delhi,Paid Search
+498,2023-09-30,New Delhi,Organic
+499,2023-04-01,Mumbai,Email
+500,2024-06-02,Mumbai,Email
+501,2023-05-05,Delhi,Organic
+502,2024-01-28,Pune,Organic
+503,2024-11-04,Patna,Organic
+504,2024-10-26,Lucknow,Paid Search
+505,2023-09-14,Hyderabad,Email
+506,2024-07-08,Hyderabad,Paid Search
+507,2024-03-10,Delhi,Organic
+508,2023-12-07,Pune,Organic
+509,2023-04-10,Pune,Organic
+510,2023-09-25,Kolkata,Referral
+511,2024-04-07,Jaipur,Social Media
+512,2024-12-01,Bengaluru,Social Media
+513,2023-01-04,Pune,Paid Search
+514,2024-05-24,Kolkata,Email
+515,2024-08-23,Delhi,Paid Search
+516,2024-11-06,Lucknow,Referral
+517,2023-10-28,Mumbai,Email
+518,2023-03-26,Patna,Paid Search
+519,2023-07-12,Pune,Email
+520,2024-08-26,Mumbai,Organic
+521,2024-09-15,Chennai,Social Media
+522,2024-03-28,Mumbai,Organic
+523,2023-03-29,Pune,Paid Search
+524,2023-03-28,Kolkata,Organic
+525,2023-12-06,Hyderabad,Organic
+526,2024-02-22,Kolkata,Organic
+527,2023-01-23,Mumbai,Paid Search
+528,2024-05-02,Delhi,Social Media
+529,2024-01-22,Bengaluru,Paid Search
+530,2023-01-09,mumbai,Paid Search
+531,2023-03-09,Bengaluru,Email
+532,2023-11-19,Delhi,Email
+533,2024-05-28,Bengaluru,Organic
+534,2024-08-09,Bengaluru,Paid Search
+535,2023-11-03,Jaipur,Social Media
+536,2023-07-29,delhi,Social Media
+537,2024-11-18,Jaipur,Paid Search
+538,2023-11-22,Bengaluru,Social Media
+539,2023-08-12,Delhi,Organic
+540,2023-11-11,Hyderabad,Paid Search
+541,2023-01-09,Bengaluru,Social Media
+542,2023-08-03,Delhi,Social Media
+543,2024-01-02,Hyderabad,Referral
+544,2024-10-14,Mumbai,Organic
+545,2024-06-08,bengaluru,Organic
+546,2024-07-08,Hyderabad,Organic
+547,2024-01-22,Bengaluru,Organic
+548,2023-03-20,Kolkata,Organic
+549,2023-10-05,Delhi,Paid Search
+550,2024-12-08,Patna,Paid Search
+551,2023-02-01,Pune,Social Media
+552,2024-09-16,Patna,Paid Search
+553,2024-04-30,Kolkata,Organic
+554,2023-07-21,Mumbai,Social Media
+555,2024-07-06,hyderabad,Organic
+556,2024-08-17,Mumbai,Email
+557,2023-01-31,Kolkata,Organic
+558,2023-03-17,Hyderabad,Paid Search
+559,2024-04-17,Delhi,Email
+560,2024-12-10,Lucknow,Social Media
+561,2023-01-18,Mumbai,Social Media
+562,2024-04-17,Hyderabad,Social Media
+563,2023-04-07,Pune,Organic
+564,2024-04-06,mumbai,Social Media
+565,2024-03-18,Hyderabad,Email
+566,2023-03-06,Kolkata,Email
+567,2024-04-28,Mumbai,Paid Search
+568,2024-09-28,Hyderabad,Paid Search
+569,2024-09-05,Delhi,Referral
+570,2023-01-21,Chennai,Paid Search
+571,2023-06-24,Mumbai,Organic
+572,2023-06-20,Lucknow,Organic
+573,2023-11-18,Jaipur,Organic
+574,2023-04-12,Delhi,Paid Search
+575,2024-08-29,Delhi,Organic
+576,2024-07-05,Hyderabad,Organic
+577,2024-07-27,Pune,Organic
+578,2023-05-21,Bengaluru,Email
+579,2023-01-11,Mumbai,Organic
+580,2024-10-08,Mumbai,Organic
+581,2023-07-25,Patna,Paid Search
+582,2024-04-10,bengaluru,Organic
+583,2024-10-07,Jaipur,Email
+584,2023-01-26,Bengaluru,Email
+585,2023-01-04,Lucknow,Paid Search
+586,2023-01-04,Mumbai,Paid Search
+587,2023-04-21,,Paid Search
+588,2023-02-06,Lucknow,Organic
+589,2024-08-05,Lucknow,Organic
+590,2024-03-06,Delhi,Organic
+591,2024-11-26,Bengaluru,Organic
+592,2024-07-23,Bengaluru,Social Media
+593,2024-11-14,Bengaluru,Organic
+594,2023-06-19,Delhi,Organic
+595,2023-07-24,Jaipur,Paid Search
+596,2024-08-26,Delhi,Paid Search
+597,2023-06-23,Chennai,Organic
+598,2023-02-10,Mumbai,Organic
+599,2024-04-20,Mumbai,Organic
+600,2024-07-22,Chennai,Organic
+601,2024-11-18,New Delhi,Referral
+602,2024-10-20,Chennai,Email
+603,2023-03-27,Mumbai,Paid Search
+604,2024-07-02,Lucknow,Paid Search
+605,2024-08-23,Pune,Social Media
+606,2024-05-10,Jaipur,Social Media
+607,2024-08-05,Mumbai,Organic
+608,2024-08-17,Delhi,Organic
+609,2023-11-14,Bengaluru,Paid Search
+610,2023-01-29,Hyderabad,Social Media
+611,2023-11-20,Delhi,Organic
+612,2023-05-24,Mumbai,Organic
+613,2023-03-22,Bengaluru,Paid Search
+614,2023-03-30,,Organic
+615,2024-05-10,Bengaluru,Paid Search
+616,2023-12-25,delhi,Social Media
+617,2024-01-19,Delhi,Paid Search
+618,2024-06-13,Chennai,Organic
+619,2024-01-25,Bengaluru,Organic
+620,2024-03-23,Bengaluru,Referral
+621,2023-03-03,Hyderabad,Paid Search
+622,2024-08-27,Pune,Organic
+623,2023-11-15,Bengaluru,Organic
+624,2023-04-21,hyderabad,Referral
+625,2024-07-31,Patna,Referral
+626,2024-06-05,Hyderabad,Email
+627,2023-02-07,Jaipur,Social Media
+628,2023-05-18,Kolkata,Paid Search
+629,2023-01-12,Mumbai,Paid Search
+630,2023-07-12,Bengaluru,Organic
+631,2023-03-12,Chennai,Social Media
+632,2024-05-19,Patna,Social Media
+633,2024-01-07,Bangalore,Organic
+634,2024-11-26,Mumbai ,Email
+635,2024-06-16,Hyderabad,Paid Search
+636,2024-03-10,Mumbai,Organic
+637,2023-12-28,Pune,Paid Search
+638,2023-02-08,Hyderabad,Email
+639,2023-02-19,Pune,Email
+640,2024-03-13,Jaipur,Paid Search
+641,2023-01-04,Chennai,Email
+642,2023-01-31,Hyderabad,Email
+643,2023-06-05,Pune,Referral
+644,2024-09-19,Kolkata,Email
+645,2023-11-22,Jaipur,Paid Search
+646,2024-05-18,Mumbai,Referral
+647,2023-10-20,Hyderabad,Social Media
+648,2023-05-03,Delhi,Social Media
+649,2023-09-21,Jaipur,Organic
+650,2023-03-07,Chennai,Social Media
+651,2024-06-30,BENGALURU ,Email
+652,2023-05-11,Delhi,Paid Search
+653,2023-09-25,Delhi,Email
+654,2024-11-26,Chennai,Paid Search
+655,2024-02-25,Delhi,Organic
+656,2023-11-22,Mumbai,Organic
+657,2024-01-21,Jaipur,Referral
+658,2024-07-10,Pune,Social Media
+659,2023-06-30,delhi,Paid Search
+660,2024-03-27,Delhi,Social Media
+661,2024-09-11,Patna,Paid Search
+662,2024-02-11,Chennai,Paid Search
+663,2023-11-14,HYDERABAD,Email
+664,2023-04-14,Delhi,Social Media
+665,2023-06-26,Delhi,Referral
+666,2024-11-02,Mumbai,Social Media
+667,2024-01-20,Pune,Email
+668,2023-08-02,mumbai,Organic
+669,2023-10-25,Mumbai,Organic
+670,2024-02-15,Pune,Organic
+671,2024-01-17,Lucknow,Social Media
+672,2024-05-11,Pune,Social Media
+673,2023-07-02,bengaluru,Social Media
+674,2024-04-05,Bengaluru,Paid Search
+675,2023-11-11,Bengaluru,Organic
+676,2024-10-29,Delhi,Social Media
+677,2023-04-23,Hyderabad,Email
+678,2023-04-16,Bengaluru,Organic
+679,2023-11-24,HYDERABAD,Organic
+680,2023-12-27,Jaipur,Organic
+681,2024-05-05,Patna,Paid Search
+682,2023-10-14,Mumbai,Organic
+683,2024-10-10,Bengaluru,Paid Search
+684,2023-12-03,Delhi,Social Media
+685,2023-04-02,Bengaluru,Paid Search
+686,2023-03-26,delhi,Paid Search
+687,2024-11-22,Delhi,Organic
+688,2023-04-06,Pune,Email
+689,2024-11-03,Bengaluru,Paid Search
+690,2023-07-17,Lucknow,Paid Search
+691,2023-03-08,Mumbai ,Organic
+692,2023-08-05,Mumbai,Social Media
+693,2024-03-12,Bengaluru,Email
+694,2023-10-31,Mumbai,Organic
+695,2024-07-11,Delhi,Organic
+696,2024-03-09,Patna,Organic
+697,2023-10-12,Delhi,Social Media
+698,2024-03-26,Delhi,Email
+699,2024-11-20,Hyderabad,Paid Search
+700,2023-10-20,Bengaluru,Paid Search
+701,2023-04-19,Hyderabad,Referral
+702,2023-10-18,Bengaluru,Social Media
+703,2024-08-19,Kolkata,Organic
+704,2023-06-04,Mumbai ,Organic
+705,2024-11-04,bengaluru,Paid Search
+706,2024-02-22,Chennai,Referral
+707,2024-03-03,Jaipur,Social Media
+708,2023-08-14,Bengaluru,Social Media
+709,2024-10-15,Hyderabad,Referral
+710,2023-01-26,Mumbai,Organic
+711,2023-08-01,Delhi,Paid Search
+712,2023-10-25,Mumbai,Organic
+713,2023-12-05,Pune,Email
+714,2023-12-03,Delhi,Social Media
+715,2023-04-16,Pune,Organic
+716,2023-06-10,Mumbai,Organic
+717,2023-03-09,Jaipur,Social Media
+718,2024-02-11,Kolkata,Social Media
+719,2023-09-07,Mumbai,Social Media
+720,2024-02-06,Mumbai,Organic
+721,2024-02-23,Mumbai,Email
+722,2024-05-13,Kolkata,Referral
+723,2024-01-24,Delhi,Social Media
+724,2024-04-05,Hyderabad,Social Media
+725,2024-02-21,Bengaluru,Email
+726,2024-04-08,Kolkata,Email
+727,2024-03-13,Bangalore,Social Media
+728,2023-08-13,Hyderabad,Paid Search
+729,2023-06-24,Patna,Paid Search
+730,2024-07-13,Mumbai,Referral
+731,2023-09-01,Kolkata,Social Media
+732,2024-01-25,Mumbai,Organic
+733,2023-05-20,Bengaluru,Organic
+734,2023-11-03,Jaipur,Email
+735,2024-01-12,Chennai,Email
+736,2024-03-20,Chennai,Email
+737,2024-01-09,Delhi,Paid Search
+738,2023-09-14,Bengaluru,Referral
+739,2024-11-13,Bengaluru,Referral
+740,2023-12-31,Hyderabad,Paid Search
+741,2024-07-27,Bengaluru,Organic
+742,2024-06-07,Delhi,Email
+743,2024-02-01,Delhi,Organic
+744,2024-09-21,Delhi,Social Media
+745,2023-04-02,Bengaluru,Social Media
+746,2024-10-15,Mumbai,Social Media
+747,2024-08-26,Jaipur,Organic
+748,2023-12-24,Hyderabad,Social Media
+749,2024-06-04,,Organic
+750,2024-01-05,,Referral
+751,2023-07-10,Kolkata,Organic
+752,2024-07-21,Delhi,Social Media
+753,2023-06-24,Mumbai,Referral
+754,2023-08-12,Mumbai,Organic
+755,2024-01-04,Mumbai,Organic
+756,2024-08-17,Pune,Referral
+757,2023-09-30,Patna,Organic
+758,2023-12-17,Mumbai,Organic
+759,2023-01-30,Pune,Paid Search
+760,2023-03-24,Mumbai,Email
+761,2023-02-09,Hyderabad,Social Media
+762,2023-02-21,Pune,Paid Search
+763,2024-09-08,Bengaluru,Email
+764,2024-08-20,mumbai,Paid Search
+765,2024-08-06,Hyderabad,Paid Search
+766,2023-02-09,Patna,Paid Search
+767,2023-02-25,delhi,Paid Search
+768,2023-07-19,Delhi,Paid Search
+769,2024-02-06,Mumbai,Social Media
+770,2023-08-26,Hyderabad,Organic
+771,2023-12-13,Hyderabad,Social Media
+772,2023-05-03,Kolkata,Organic
+773,2024-06-02,Pune,Paid Search
+774,2023-08-11,Jaipur,Organic
+775,2023-02-17,Kolkata,Social Media
+776,2024-06-11,Delhi,Social Media
+777,2024-10-02,hyderabad,Paid Search
+778,2023-01-11,Delhi,Organic
+779,2023-11-07,Delhi,Organic
+780,2024-08-10,Lucknow,Referral
+781,2024-05-16,Chennai,Organic
+782,2024-08-31,Patna,Referral
+783,2023-10-22,Bengaluru,Paid Search
+784,2023-09-22,Hyderabad,Organic
+785,2024-05-18,Bengaluru,Social Media
+786,2023-04-20,mumbai,Paid Search
+787,2023-06-19,Delhi,Organic
+788,2024-03-02,HYDERABAD,Email
+789,2024-04-19,Mumbai,Organic
+790,2023-03-26,Lucknow,Paid Search
+791,2023-12-27,Mumbai,Paid Search
+792,2023-09-17,Delhi,Paid Search
+793,2023-12-23,Pune,Referral
+794,2024-11-11,Mumbai,Organic
+795,2023-02-24,Jaipur,Email
+796,2024-12-07,Pune,Social Media
+797,2023-11-16,Mumbai,Email
+798,2024-07-02,Chennai,Referral
+799,2023-10-29,Chennai,Email
+800,2023-08-09,Pune,Social Media
+801,2024-07-01,Kolkata,Paid Search
+802,2024-05-03,Pune,Paid Search
+803,2023-04-13,Hyderabad,Social Media
+804,2024-05-15,New Delhi,Paid Search
+805,2024-06-18,Chennai,Social Media
+806,2023-10-03,Lucknow,Organic
+807,2024-10-19,Hyderabad,Referral
+808,2024-03-31,Chennai,Organic
+809,2023-08-25,Bengaluru,Email
+810,2023-01-08,Pune,Organic
+811,2024-04-24,Patna,Organic
+812,2023-05-29,Mumbai,Referral
+813,2024-06-21,Delhi,Referral
+814,2024-01-08,Hyderabad,Social Media
+815,2023-11-28,Bengaluru,Email
+816,2023-04-27,Hyderabad,Organic
+817,2024-05-20,Mumbai ,Referral
+818,2023-04-28,Bengaluru,Paid Search
+819,2023-10-24,Hyderabad,Paid Search
+820,2024-08-16,Hyderabad,Paid Search
+821,2024-10-15,Chennai,Organic
+822,2024-12-03,Pune,Social Media
+823,2024-11-11,Chennai,Social Media
+824,2024-01-30,Kolkata,Organic
+825,2023-05-23,Chennai,Email
+826,2024-08-18,Hyderabad,Paid Search
+827,2024-07-23,Hyderabad,Organic
+828,2024-12-04,Mumbai ,Social Media
+829,2024-04-07,Delhi,Organic
+830,2023-04-11,Hyderabad,Organic
+831,2023-12-24,Jaipur,Social Media
+832,2023-11-15,Chennai,Organic
+833,2024-08-21,Mumbai,Organic
+834,2023-10-06,hyderabad,Social Media
+835,2023-08-22,Delhi,Organic
+836,2023-02-26,Pune,Referral
+837,2024-08-16,Kolkata,Referral
+838,2024-06-20,Hyderabad,Organic
+839,2023-01-30,Hyderabad,Paid Search
+840,2023-11-04,Delhi,Organic
+841,2023-12-07,Bengaluru,Social Media
+842,2023-11-30,Jaipur,Organic
+843,2024-10-14,Pune,Email
+844,2023-04-17,HYDERABAD,Organic
+845,2023-08-06,Bengaluru,Social Media
+846,2023-05-09,Mumbai,Organic
+847,2023-06-23,Mumbai,Organic
+848,2024-10-06,Delhi,Paid Search
+849,2024-10-29,Bengaluru,Social Media
+850,2023-02-01,,Email
+851,2024-03-24,Hyderabad,Organic
+852,2023-06-15,Delhi,Organic
+853,2023-05-17,Mumbai,Paid Search
+854,2023-07-27,delhi,Paid Search
+855,2023-05-19,Kolkata,Email
+856,2023-12-15,Bengaluru,Email
+857,2024-12-07,Pune,Email
+858,2024-02-21,Kolkata,Organic
+859,2024-05-28,Mumbai,Paid Search
+860,2023-12-17,Hyderabad,Social Media
+861,2023-01-10,Lucknow,Paid Search
+862,2023-03-01,Bengaluru,Social Media
+863,2023-07-10,Mumbai,Organic
+864,2023-06-23,Lucknow,Paid Search
+865,2024-08-19,Jaipur,Email
+866,2024-08-21,Hyderabad,Organic
+867,2024-08-29,Hyderabad,Email
+868,2024-03-28,Delhi,Paid Search
+869,2024-01-30,Kolkata,Organic
+870,2024-04-05,Bengaluru,Organic
+871,2023-10-16,Mumbai,Organic
+872,2024-04-20,Chennai,Paid Search
+873,2024-07-18,Lucknow,Organic
+874,2024-06-25,Kolkata,Social Media
+875,2024-03-11,New Delhi,Email
+876,2023-02-11,Mumbai,Paid Search
+877,2024-05-29,Lucknow,Organic
+878,2023-09-18,Lucknow,Paid Search
+879,2024-06-12,Hyderabad,Referral
+880,2024-01-19,Chennai,Social Media
+881,2024-09-17,Bengaluru,Organic
+882,2023-08-29,Bengaluru,Paid Search
+883,2024-10-23,Mumbai,Paid Search
+884,2024-08-22,Mumbai,Paid Search
+885,2023-08-24,Delhi,Organic
+886,2023-12-09,Kolkata,Email
+887,2024-01-13,Mumbai,Organic
+888,2024-06-29,Delhi,Organic
+889,2024-05-04,Hyderabad,Organic
+890,2024-08-27,Delhi,Social Media
+891,2023-09-20,Mumbai,Paid Search
+892,2023-12-25,Hyderabad,Organic
+893,2023-11-02,BENGALURU ,Paid Search
+894,2024-10-07,Chennai,Social Media
+895,2023-08-05,Lucknow,Organic
+896,2024-02-21,,Email
+897,2023-03-27,Lucknow,Paid Search
+898,2024-08-26,Jaipur,Organic
+899,2023-09-30,Kolkata,Email
+900,2023-08-30,Chennai,Referral
+901,2024-02-18,Chennai,Paid Search
+902,2023-12-21,Chennai,Referral
+903,2024-08-25,Chennai,Paid Search
+904,2024-01-13,Mumbai,Paid Search
+905,2024-01-03,Lucknow,Referral
+906,2023-03-16,Hyderabad,Referral
+907,2023-01-16,Pune,Organic
+908,2023-10-10,Bengaluru,Social Media
+909,2024-12-09,Mumbai,Paid Search
+910,2024-10-13,Hyderabad,Organic
+911,2024-03-22,HYDERABAD,Email
+912,2024-03-23,Bengaluru,Paid Search
+913,2023-10-05,Delhi,Social Media
+914,2023-05-07,Delhi,Social Media
+915,2023-01-07,Hyderabad,Social Media
+916,2023-08-29,Bangalore,Organic
+917,2023-08-13,Patna,Email
+918,2023-05-17,Delhi,Social Media
+919,2023-07-04,Delhi,Social Media
+920,2023-01-18,Delhi,Paid Search
+921,2024-03-07,Hyderabad,Organic
+922,2024-10-20,Bengaluru,Organic
+923,2024-05-05,Chennai,Paid Search
+924,2023-11-15,Lucknow,Organic
+925,2023-10-26,Delhi,Social Media
+926,2023-08-07,Chennai,Email
+927,2023-04-12,Mumbai,Paid Search
+928,2024-02-29,Delhi,Paid Search
+929,2024-02-07,Bengaluru,Social Media
+930,2023-01-06,Mumbai,Organic
+931,2023-10-23,Hyderabad,Email
+932,2023-07-17,Chennai,Paid Search
+933,2023-05-01,Pune,Organic
+934,2024-05-14,Hyderabad,Organic
+935,2024-01-09,Hyderabad,Email
+936,2024-03-25,Bengaluru,Organic
+937,2024-05-21,Mumbai ,Social Media
+938,2024-11-28,Mumbai,Organic
+939,2024-07-23,Chennai,Organic
+940,2024-03-16,Patna,Email
+941,2024-09-16,Mumbai,Organic
+942,2023-12-06,Hyderabad,Organic
+943,2024-11-30,Pune,Paid Search
+944,2024-06-24,Kolkata,Email
+945,2024-04-07,HYDERABAD,Paid Search
+946,2024-10-03,Hyderabad,Organic
+947,2024-01-01,Chennai,Email
+948,2024-05-26,Kolkata,Social Media
+949,2023-07-22,Mumbai,Email
+950,2024-11-14,Lucknow,Referral
+951,2024-03-18,Mumbai,Social Media
+952,2024-07-09,Kolkata,Paid Search
+953,2023-11-24,Mumbai,Paid Search
+954,2024-09-07,Delhi,Social Media
+955,2023-02-22,Mumbai,Social Media
+956,2023-03-23,Bengaluru,Email
+957,2023-12-27,Delhi,Social Media
+958,2024-06-04,Mumbai,Organic
+959,2024-07-28,Bengaluru,Paid Search
+960,2023-11-09,Bengaluru,Social Media
+961,2024-04-06,Pune,Paid Search
+962,2024-01-28,Jaipur,Referral
+963,2024-11-13,Chennai,Social Media
+964,2024-04-09,Mumbai ,Organic
+965,2023-10-23,Delhi,Social Media
+966,2024-11-19,Lucknow,Social Media
+967,2023-03-18,Mumbai ,Email
+968,2024-11-30,bengaluru,Paid Search
+969,2023-04-20,Lucknow,Social Media
+970,2023-07-24,Lucknow,Paid Search
+971,2024-08-06,Bengaluru,Paid Search
+972,2024-06-04,Chennai,Organic
+973,2024-11-19,bengaluru,Email
+974,2024-06-16,Pune,Email
+975,2024-03-28,Mumbai,Paid Search
+976,2023-09-04,Mumbai,Social Media
+977,2023-01-04,Hyderabad,Organic
+978,2023-03-29,Delhi,Social Media
+979,2023-07-31,Chennai,Paid Search
+980,2023-01-30,Bengaluru,Social Media
+981,2023-12-27,Jaipur,Organic
+982,2024-07-05,Kolkata,Social Media
+983,2024-11-14,Bengaluru,Organic
+984,2023-12-14,Pune,Social Media
+985,2024-09-13,Delhi,Social Media
+986,2024-11-30,Bengaluru,Organic
+987,2024-09-02,Delhi,Paid Search
+988,2023-11-27,Jaipur,Referral
+989,2023-08-19,Kolkata,Social Media
+990,2024-11-25,Jaipur,Organic
+991,2023-06-21,Jaipur,Paid Search
+992,2023-10-20,Lucknow,Paid Search
+993,2023-02-22,Delhi,Social Media
+994,2024-07-17,Lucknow,Social Media
+995,2024-04-06,hyderabad,Organic
+996,2023-03-02,Bengaluru,Social Media
+997,2023-06-07,Hyderabad,Social Media
+998,2024-01-30,Bengaluru,Referral
+999,2024-01-19,Delhi,Organic
+1000,2024-07-23,Delhi,Paid Search
+1001,2023-07-08,Mumbai,Paid Search
+1002,2024-10-18,Bengaluru,Organic
+1003,2023-11-12,Jaipur,Paid Search
+1004,2024-08-07,Chennai,Organic
+1005,2023-06-19,Hyderabad,Organic
+1006,2023-01-27,Bengaluru,Social Media
+1007,2023-02-09,Bengaluru,Organic
+1008,2023-09-22,Delhi,Social Media
+1009,2024-11-07,Kolkata,Organic
+1010,2023-02-04,Delhi,Social Media
+1011,2023-09-19,Pune,Paid Search
+1012,2023-03-19,Pune,Referral
+1013,2024-10-23,Hyderabad,Referral
+1014,2024-04-24,Jaipur,Paid Search
+1015,2024-06-25,Delhi,Social Media
+1016,2024-05-21,Jaipur,Organic
+1017,2024-04-11,Pune,Social Media
+1018,2024-07-03,Kolkata,Organic
+1019,2023-01-06,Chennai,Paid Search
+1020,2024-09-06,Kolkata,Organic
+1021,2024-06-09,Patna,Email
+1022,2024-06-08,Bengaluru,Paid Search
+1023,2023-10-07,Kolkata,Social Media
+1024,2024-07-22,Pune,Paid Search
+1025,2023-09-29,,Organic
+1026,2023-02-04,Lucknow,Organic
+1027,2024-10-06,BENGALURU ,Email
+1028,2023-06-16,Hyderabad,Referral
+1029,2023-03-14,Mumbai,Organic
+1030,2024-03-17,Delhi,Social Media
+1031,2023-06-15,Kolkata,Paid Search
+1032,2024-09-01,Bengaluru,Organic
+1033,2023-11-12,Bengaluru,Paid Search
+1034,2023-01-04,Delhi,Organic
+1035,2024-11-06,Bengaluru,Organic
+1036,2024-01-01,Kolkata,Social Media
+1037,2023-07-06,Jaipur,Organic
+1038,2024-04-25,Mumbai ,Email
+1039,2024-01-12,Hyderabad,Social Media
+1040,2023-01-22,Bengaluru,Referral
+1041,2024-06-23,Hyderabad,Social Media
+1042,2023-10-12,Bengaluru,Email
+1043,2024-05-11,Bengaluru,Paid Search
+1044,2024-09-27,Bengaluru,Paid Search
+1045,2024-03-09,Hyderabad,Paid Search
+1046,2024-04-21,Hyderabad,Email
+1047,2023-06-30,Bengaluru,Organic
+1048,2023-06-18,Kolkata,Social Media
+1049,2023-10-22,Pune,Referral
+1050,2024-08-28,Bengaluru,Paid Search
+1051,2024-01-08,,Email
+1052,2023-09-05,Kolkata,Paid Search
+1053,2024-07-07,Mumbai,Organic
+1054,2024-08-28,Hyderabad,Social Media
+1055,2024-10-02,Delhi,Paid Search
+1056,2023-08-01,Pune,Organic
+1057,2024-05-18,Delhi,Organic
+1058,2024-02-24,Chennai,Organic
+1059,2023-11-15,Delhi,Referral
+1060,2023-10-09,hyderabad,Email
+1061,2023-03-23,Lucknow,Paid Search
+1062,2023-07-15,Bengaluru,Organic
+1063,2024-01-26,Jaipur,Paid Search
+1064,2024-09-21,Patna,Email
+1065,2024-09-07,Jaipur,Social Media
+1066,2023-05-14,Mumbai,Organic
+1067,2024-04-27,Kolkata,Organic
+1068,2023-03-02,Mumbai,Email
+1069,2024-04-24,Bengaluru,Email
+1070,2023-08-31,Jaipur,Organic
+1071,2023-11-16,Chennai,Referral
+1072,2024-05-24,Hyderabad,Organic
+1073,2023-10-29,Bangalore,Organic
+1074,2024-07-27,Kolkata,Referral
+1075,2024-01-14,Chennai,Paid Search
+1076,2024-12-10,Bengaluru,Paid Search
+1077,2024-03-29,Jaipur,Email
+1078,2023-07-30,Delhi,Referral
+1079,2024-07-04,Delhi,Organic
+1080,2023-10-17,Chennai,Social Media
+1081,2024-01-15,Patna,Referral
+1082,2023-04-08,Delhi,Social Media
+1083,2023-03-26,Delhi,Email
+1084,2024-02-13,Mumbai,Social Media
+1085,2023-05-13,Jaipur,Organic
+1086,2024-12-09,Delhi,Organic
+1087,2024-08-30,Hyderabad,Referral
+1088,2024-05-12,Patna,Email
+1089,2024-06-05,Mumbai,Organic
+1090,2024-02-27,Hyderabad,Organic
+1091,2023-02-12,Hyderabad,Referral
+1092,2023-10-06,Kolkata,Organic
+1093,2023-12-19,Bengaluru,Organic
+1094,2024-10-11,Bangalore,Email
+1095,2023-06-05,Mumbai,Referral
+1096,2023-12-19,Pune,Email
+1097,2023-09-02,Pune,Social Media
+1098,2023-04-06,Mumbai,Paid Search
+1099,2023-03-15,Bengaluru,Email
+1100,2023-09-17,Jaipur,Organic
+1101,2023-02-28,Mumbai,Organic
+1102,2023-02-17,Delhi,Email
+1103,2023-09-07,Hyderabad,Social Media
+1104,2023-05-24,Delhi,Email
+1105,2024-01-29,Delhi,Organic
+1106,2023-01-13,Bengaluru,Email
+1107,2023-08-03,Delhi,Social Media
+1108,2023-11-18,Hyderabad,Social Media
+1109,2024-11-14,Chennai,Email
+1110,2024-03-26,Hyderabad,Paid Search
+1111,2024-09-17,Mumbai,Social Media
+1112,2023-09-01,Kolkata,Social Media
+1113,2023-11-16,Delhi,Referral
+1114,2023-10-26,Pune,Email
+1115,2024-09-22,Bengaluru,Social Media
+1116,2024-11-12,Pune,Organic
+1117,2024-11-14,Delhi,Organic
+1118,2024-06-17,Delhi,Email
+1119,2023-12-24,Bengaluru,Email
+1120,2024-01-20,Mumbai,Email
+1121,2024-11-27,Delhi,Organic
+1122,2023-07-22,Pune,Paid Search
+1123,2023-09-04,Kolkata,Referral
+1124,2024-09-28,Mumbai,Referral
+1125,2023-10-02,Jaipur,Organic
+1126,2023-06-16,Kolkata,Social Media
+1127,2024-02-02,Jaipur,Organic
+1128,2023-08-19,Chennai,Paid Search
+1129,2024-09-24,Chennai,Organic
+1130,2024-10-07,Hyderabad,Organic
+1131,2023-08-06,Chennai,Organic
+1132,2024-01-11,Lucknow,Email
+1133,2024-11-29,Mumbai,Social Media
+1134,2024-06-11,Delhi,Email
+1135,2023-06-03,Mumbai,Paid Search
+1136,2024-02-24,Lucknow,Paid Search
+1137,2024-03-16,Bengaluru,Paid Search
+1138,2024-04-08,Chennai,Social Media
+1139,2023-01-18,Kolkata,Paid Search
+1140,2023-08-01,Patna,Social Media
+1141,2024-08-29,Mumbai,Referral
+1142,2023-06-21,Kolkata,Email
+1143,2023-08-01,Jaipur,Organic
+1144,2023-08-17,Mumbai,Paid Search
+1145,2023-05-06,Pune,Organic
+1146,2023-04-21,Bengaluru,Organic
+1147,2023-09-04,Chennai,Social Media
+1148,2024-09-12,Hyderabad,Paid Search
+1149,2023-01-02,Delhi,Social Media
+1150,2023-07-21,Mumbai,Organic
+1151,2023-02-13,Mumbai,Email
+1152,2024-02-03,Mumbai,Email
+1153,2023-06-27,Chennai,Paid Search
+1154,2024-07-16,Bengaluru,Email
+1155,2024-02-20,Delhi,Organic
+1156,2024-07-10,Chennai,Social Media
+1157,2024-03-26,Chennai,Email
+1158,2023-11-08,Hyderabad,Referral
+1159,2024-09-03,Lucknow,Referral
+1160,2023-12-05,Bengaluru,Paid Search
+1161,2024-11-05,Kolkata,Referral
+1162,2024-12-07,Mumbai,Social Media
+1163,2024-02-23,Pune,Organic
+1164,2024-04-23,Patna,Organic
+1165,2023-07-01,Kolkata,Referral
+1166,2024-08-01,Hyderabad,Social Media
+1167,2024-04-21,Chennai,Paid Search
+1168,2024-10-02,Bangalore,Email
+1169,2023-07-09,Chennai,Social Media
+1170,2024-07-13,Pune,Paid Search
+1171,2023-11-30,Patna,Paid Search
+1172,2023-05-12,Bengaluru,Social Media
+1173,2023-05-02,Mumbai,Referral
+1174,2024-02-04,Hyderabad,Social Media
+1175,2023-08-15,Mumbai,Paid Search
+1176,2023-03-14,Delhi,Social Media
+1177,2023-10-31,Delhi,Social Media
+1178,2024-04-08,Pune,Referral
+1179,2023-08-15,Delhi,Organic
+1180,2024-11-09,Mumbai,Referral
+1181,2024-07-07,Mumbai,Paid Search
+1182,2023-12-31,Jaipur,Organic
+1183,2024-10-25,Chennai,Social Media
+1184,2023-11-04,Mumbai,Social Media
+1185,2023-04-10,Mumbai ,Paid Search
+1186,2023-01-26,Hyderabad,Referral
+1187,2024-10-27,Delhi,Paid Search
+1188,2024-11-12,Hyderabad,Organic
+1189,2024-06-08,Bengaluru,Paid Search
+1190,2023-03-15,Lucknow,Paid Search
+1191,2023-07-28,Delhi,Social Media
+1192,2023-01-30,Chennai,Referral
+1193,2023-02-06,Mumbai,Social Media
+1194,2023-06-24,Lucknow,Organic
+1195,2024-02-11,Patna,Paid Search
+1196,2023-02-16,Pune,Organic
+1197,2024-11-30,Bengaluru,Social Media
+1198,2023-11-20,Delhi,Organic
+1199,2023-07-07,Kolkata,Paid Search
+1200,2024-01-02,Pune,Referral
+1201,2024-07-15,Delhi,Social Media
+1202,2023-08-10,Bengaluru,Organic
+1203,2023-02-03,Bengaluru,Paid Search
+1204,2023-02-06,Kolkata,Social Media
+1205,2024-08-27,Chennai,Paid Search
+1206,2023-03-21,Chennai,Organic
+1207,2024-03-27,Chennai,Email
+1208,2023-09-30,Delhi,Paid Search
+1209,2024-07-06,Bengaluru,Paid Search
+1210,2023-02-12,Mumbai,Organic
+1211,2024-09-29,Pune,Paid Search
+1212,2024-05-10,Bengaluru,Paid Search
+1213,2023-11-15,Bengaluru,Organic
+1214,2023-05-27,Delhi,Social Media
+1215,2024-11-24,,Paid Search
+1216,2023-08-03,Hyderabad,Email
+1217,2023-12-15,Delhi,Email
+1218,2023-10-07,Mumbai,Organic
+1219,2023-06-13,Pune,Organic
+1220,2023-10-23,Bengaluru,Referral
+1221,2023-04-18,BENGALURU ,Email
+1222,2023-01-02,Bengaluru,Email
+1223,2023-07-25,Kolkata,Organic
+1224,2023-03-21,Delhi,Organic
+1225,2023-10-22,Pune,Organic
+1226,2024-09-04,Lucknow,Referral
+1227,2023-04-26,Chennai,Social Media
+1228,2023-01-01,bengaluru,Paid Search
+1229,2023-03-20,Pune,Social Media
+1230,2023-12-27,Bengaluru,Organic
+1231,2023-07-15,Bengaluru,Social Media
+1232,2023-12-14,HYDERABAD,Organic
+1233,2023-01-21,New Delhi,Social Media
+1234,2023-08-25,mumbai,Social Media
+1235,2023-10-19,BENGALURU ,Social Media
+1236,2023-11-03,Mumbai,Paid Search
+1237,2024-01-27,Bengaluru,Referral
+1238,2024-07-08,hyderabad,Social Media
+1239,2023-11-28,Lucknow,Organic
+1240,2024-08-20,Mumbai,Organic
+1241,2024-01-12,,Social Media
+1242,2023-07-04,Bengaluru,Organic
+1243,2023-06-12,Mumbai,Organic
+1244,2023-08-17,Delhi,Organic
+1245,2024-02-29,,Organic
+1246,2023-06-22,Delhi,Paid Search
+1247,2024-10-11,Delhi,Social Media
+1248,2023-12-07,Bengaluru,Organic
+1249,2024-09-04,Hyderabad,Social Media
+1250,2024-04-30,Mumbai,Organic
+1251,2023-08-25,Mumbai,Paid Search
+1252,2023-06-12,Mumbai,Organic
+1253,2024-06-12,Hyderabad,Referral
+1254,2023-08-23,Delhi,Email
+1255,2023-06-25,hyderabad,Paid Search
+1256,2024-10-22,Delhi,Organic
+1257,2023-12-09,Mumbai,Organic
+1258,2023-02-04,Lucknow,Organic
+1259,2023-12-18,Mumbai,Referral
+1260,2023-11-24,Mumbai,Organic
+1261,2024-09-05,Mumbai,Email
+1262,2024-05-20,Patna,Social Media
+1263,2023-05-16,Hyderabad,Paid Search
+1264,2023-04-17,Hyderabad,Referral
+1265,2024-03-04,Patna,Organic
+1266,2023-02-03,Mumbai,Referral
+1267,2023-08-15,Patna,Organic
+1268,2023-04-09,Delhi,Referral
+1269,2023-01-15,Chennai,Paid Search
+1270,2024-10-14,Bengaluru,Organic
+1271,2023-03-05,Bengaluru,Referral
+1272,2023-01-07,Lucknow,Organic
+1273,2024-10-24,Mumbai ,Organic
+1274,2023-05-14,Patna,Referral
+1275,2024-08-02,Bengaluru,Paid Search
+1276,2023-01-23,Chennai,Email
+1277,2023-04-20,Patna,Social Media
+1278,2023-03-20,Mumbai,Social Media
+1279,2024-05-16,Lucknow,Organic
+1280,2024-03-16,Hyderabad,Organic
+1281,2023-12-04,Chennai,Email
+1282,2023-06-21,Mumbai,Organic
+1283,2023-03-05,Hyderabad,Paid Search
+1284,2024-02-09,Chennai,Organic
+1285,2023-06-13,Bengaluru,Organic
+1286,2024-02-24,Mumbai,Social Media
+1287,2024-05-03,New Delhi,Referral
+1288,2024-08-26,Kolkata,Referral
+1289,2023-12-17,Mumbai,Email
+1290,2023-01-04,Chennai,Organic
+1291,2023-07-19,Patna,Paid Search
+1292,2024-08-28,Mumbai,Organic
+1293,2024-01-14,Mumbai,Social Media
+1294,2024-03-15,Chennai,Paid Search
+1295,2023-11-22,Mumbai,Social Media
+1296,2023-04-26,Hyderabad,Organic
+1297,2024-09-28,Chennai,Referral
+1298,2024-07-02,Hyderabad,Referral
+1299,2024-12-07,Bengaluru,Email
+1300,2024-08-30,Chennai,Organic
+1301,2023-07-26,HYDERABAD,Email
+1302,2023-06-30,Delhi,Organic
+1303,2023-06-26,Hyderabad,Paid Search
+1304,2024-10-14,Jaipur,Organic
+1305,2024-01-31,Chennai,Organic
+1306,2023-11-19,Bengaluru,Social Media
+1307,2024-11-18,Delhi,Organic
+1308,2024-03-04,Mumbai,Paid Search
+1309,2024-10-07,Delhi,Social Media
+1310,2024-11-30,Mumbai,Referral
+1311,2023-02-26,Patna,Social Media
+1312,2023-09-14,Delhi,Social Media
+1313,2024-06-05,Kolkata,Organic
+1314,2024-07-31,Mumbai,Referral
+1315,2023-04-16,New Delhi,Organic
+1316,2023-08-15,Bengaluru,Organic
+1317,2024-01-25,Delhi,Organic
+1318,2024-07-21,Kolkata,Social Media
+1319,2023-03-22,Lucknow,Paid Search
+1320,2024-03-02,Jaipur,Social Media
+1321,2023-07-30,Mumbai,Paid Search
+1322,2023-06-03,Pune,Paid Search
+1323,2024-01-01,Mumbai,Paid Search
+1324,2023-10-21,Lucknow,Organic
+1325,2024-03-27,Hyderabad,Paid Search
+1326,2023-08-14,Delhi,Social Media
+1327,2024-08-07,Mumbai,Paid Search
+1328,2023-02-25,Mumbai,Organic
+1329,2024-09-03,Delhi,Social Media
+1330,2023-01-22,Lucknow,Paid Search
+1331,2024-06-06,Kolkata,Organic
+1332,2023-09-03,Patna,Organic
+1333,2023-09-30,Mumbai,Paid Search
+1334,2023-01-14,Hyderabad,Paid Search
+1335,2024-05-13,Delhi,Social Media
+1336,2023-04-28,Hyderabad,Organic
+1337,2024-04-13,delhi,Referral
+1338,2024-05-29,Delhi,Organic
+1339,2024-08-23,Hyderabad,Social Media
+1340,2024-05-17,Delhi,Referral
+1341,2023-08-03,Bengaluru,Paid Search
+1342,2024-06-08,Chennai,Organic
+1343,2024-08-09,Mumbai,Paid Search
+1344,2023-08-14,Lucknow,Email
+1345,2023-03-30,Hyderabad,Email
+1346,2024-09-23,Kolkata,Organic
+1347,2023-04-16,Chennai,Referral
+1348,2024-02-26,Pune,Paid Search
+1349,2023-06-17,Pune,Organic
+1350,2023-03-31,Jaipur,Social Media
+1351,2024-07-05,Hyderabad,Paid Search
+1352,2023-04-13,Delhi,Paid Search
+1353,2024-04-20,Mumbai,Referral
+1354,2024-05-07,Hyderabad,Paid Search
+1355,2023-02-12,Mumbai,Social Media
+1356,2023-05-03,Delhi,Paid Search
+1357,2024-07-17,Mumbai,Organic
+1358,2023-12-27,Hyderabad,Paid Search
+1359,2023-03-28,Mumbai,Email
+1360,2024-12-05,Hyderabad,Paid Search
+1361,2023-07-08,Kolkata,Organic
+1362,2023-01-03,Kolkata,Social Media
+1363,2024-10-18,Delhi,Email
+1364,2023-01-12,Hyderabad,Email
+1365,2024-01-28,Hyderabad,Social Media
+1366,2024-12-06,BENGALURU ,Paid Search
+1367,2024-02-15,Chennai,Social Media
+1368,2024-02-20,,Referral
+1369,2023-10-03,Patna,Email
+1370,2023-04-01,Mumbai,Referral
+1371,2024-02-11,Kolkata,Paid Search
+1372,2024-09-29,Hyderabad,Organic
+1373,2023-03-06,Delhi,Social Media
+1374,2024-09-17,Pune,Organic
+1375,2023-10-22,mumbai,Organic
+1376,2024-01-16,Pune,Paid Search
+1377,2023-04-28,Hyderabad,Social Media
+1378,2024-03-17,Mumbai,Email
+1379,2023-05-10,mumbai,Referral
+1380,2023-07-13,Pune,Email
+1381,2024-05-27,Delhi,Referral
+1382,2023-02-05,Jaipur,Social Media
+1383,2023-11-14,Pune,Organic
+1384,2024-02-27,Chennai,Social Media
+1385,2023-04-04,Delhi,Organic
+1386,2023-07-29,Chennai,Organic
+1387,2023-09-01,Lucknow,Organic
+1388,2024-04-16,Mumbai,Referral
+1389,2024-11-24,Delhi,Social Media
+1390,2024-08-16,Delhi,Email
+1391,2023-05-15,Bengaluru,Email
+1392,2023-01-13,Pune,Email
+1393,2023-02-06,Bengaluru,Organic
+1394,2024-02-27,Hyderabad,Email
+1395,2023-04-21,Delhi,Referral
+1396,2023-06-14,Mumbai,Email
+1397,2024-08-24,Delhi,Organic
+1398,2024-09-12,Kolkata,Organic
+1399,2024-08-18,Hyderabad,Email
+1400,2023-06-30,Bengaluru,Organic
+1401,2024-03-15,Pune,Paid Search
+1402,2024-03-09,Mumbai,Paid Search
+1403,2023-05-12,Delhi,Organic
+1404,2024-01-29,Delhi,Organic
+1405,2024-01-08,Patna,Email
+1406,2023-10-09,Chennai,Email
+1407,2024-06-17,HYDERABAD,Email
+1408,2024-04-26,Mumbai,Organic
+1409,2024-01-14,,Organic
+1410,2024-05-30,Chennai,Paid Search
+1411,2024-06-25,Bengaluru,Paid Search
+1412,2024-02-07,Lucknow,Organic
+1413,2023-07-10,Pune,Referral
+1414,2024-06-22,Bengaluru,Email
+1415,2024-05-24,Pune,Paid Search
+1416,2024-11-29,Patna,Paid Search
+1417,2023-04-17,Bengaluru,Paid Search
+1418,2023-10-25,Chennai,Organic
+1419,2024-10-18,Lucknow,Organic
+1420,2024-01-01,Delhi,Paid Search
+1421,2024-10-31,Jaipur,Paid Search
+1422,2023-01-09,Mumbai,Paid Search
+1423,2023-01-25,Chennai,Referral
+1424,2024-07-19,Pune,Organic
+1425,2023-09-12,Hyderabad,Organic
+1426,2024-01-05,Bengaluru,Organic
+1427,2023-10-31,Hyderabad,Organic
+1428,2023-10-17,Mumbai,Social Media
+1429,2024-10-29,New Delhi,Referral
+1430,2023-03-08,Delhi,Email
+1431,2024-07-02,Hyderabad,Social Media
+1432,2024-09-23,Bengaluru,Paid Search
+1433,2024-04-11,Delhi,Organic
+1434,2023-10-08,Jaipur,Paid Search
+1435,2023-04-24,Bengaluru,Paid Search
+1436,2024-04-29,BENGALURU ,Email
+1437,2023-11-29,Bengaluru,Paid Search
+1438,2023-04-17,New Delhi,Organic
+1439,2023-09-13,Pune,Organic
+1440,2024-11-13,,Organic
+1441,2023-07-08,Mumbai,Email
+1442,2023-05-07,Patna,Organic
+1443,2024-04-29,Kolkata,Organic
+1444,2023-05-22,Pune,Organic
+1445,2024-10-15,Jaipur,Referral
+1446,2024-09-01,Jaipur,Paid Search
+1447,2024-11-29,delhi,Social Media
+1448,2024-10-09,Hyderabad,Paid Search
+1449,2023-06-23,Hyderabad,Organic
+1450,2023-05-31,Delhi,Email
+1451,2023-09-01,Delhi,Organic
+1452,2023-11-30,Mumbai,Organic
+1453,2024-09-16,Chennai,Social Media
+1454,2024-06-04,Pune,Organic
+1455,2024-04-02,Pune,Organic
+1456,2024-09-15,Delhi,Referral
+1457,2024-04-03,Delhi,Paid Search
+1458,2023-09-27,Bengaluru,Organic
+1459,2023-10-21,Hyderabad,Paid Search
+1460,2024-01-03,Lucknow,Social Media
+1461,2023-03-05,Jaipur,Organic
+1462,2024-06-10,Lucknow,Organic
+1463,2024-04-08,Kolkata,Social Media
+1464,2024-06-03,Patna,Social Media
+1465,2024-01-15,Bengaluru,Email
+1466,2024-07-09,Mumbai,Paid Search
+1467,2024-11-05,Mumbai ,Organic
+1468,2024-02-09,bengaluru,Paid Search
+1469,2023-11-12,Delhi,Social Media
+1470,2023-03-16,Mumbai,Organic
+1471,2024-07-06,Lucknow,Social Media
+1472,2024-10-03,Delhi,Organic
+1473,2024-05-11,Lucknow,Referral
+1474,2024-09-06,Pune,Referral
+1475,2024-09-03,Chennai,Paid Search
+1476,2024-07-20,Chennai,Email
+1477,2023-12-24,Delhi,Email
+1478,2023-03-12,Chennai,Organic
+1479,2023-01-03,Delhi,Paid Search
+1480,2023-05-26,Lucknow,Social Media
+1481,2023-11-03,Delhi,Organic
+1482,2024-06-11,Delhi,Paid Search
+1483,2023-11-20,Pune,Organic
+1484,2023-01-17,Chennai,Email
+1485,2023-05-30,bengaluru,Paid Search
+1486,2024-11-26,Chennai,Referral
+1487,2024-12-02,Mumbai,Paid Search
+1488,2023-09-25,Chennai,Organic
+1489,2024-07-25,New Delhi,Email
+1490,2024-05-25,Delhi,Organic
+1491,2024-10-23,Mumbai,Organic
+1492,2024-09-22,Delhi,Paid Search
+1493,2024-03-22,Delhi,Social Media
+1494,2023-10-08,Bengaluru,Paid Search
+1495,2024-03-20,Delhi,Organic
+1496,2023-08-15,Delhi,Paid Search
+1497,2023-09-05,Hyderabad,Organic
+1498,2024-03-08,Mumbai,Organic
+1499,2024-02-10,Chennai,Paid Search
+1500,2024-02-17,Lucknow,Organic
+1501,2023-10-01,Bengaluru,Organic
+1502,2023-10-18,Jaipur,Social Media
+1503,2023-01-08,Mumbai ,Social Media
+1504,2024-03-03,Mumbai,Organic
+1505,2024-02-13,Pune,Paid Search
+1506,2024-10-26,Pune,Organic
+1507,2023-12-25,Kolkata,Email
+1508,2023-11-29,Mumbai,Organic
+1509,2023-02-18,Pune,Organic
+1510,2023-05-20,Bengaluru,Paid Search
+1511,2023-08-29,Delhi,Organic
+1512,2023-09-25,Delhi,Organic
+1513,2023-09-15,Patna,Organic
+1514,2023-10-07,Mumbai,Social Media
+1515,2024-06-29,Kolkata,Social Media
+1516,2023-04-04,Chennai,Social Media
+1517,2023-08-24,,Referral
+1518,2023-04-26,Pune,Paid Search
+1519,2023-08-07,Kolkata,Email
+1520,2024-05-01,Delhi,Social Media
+1521,2023-02-03,Mumbai,Referral
+1522,2023-08-30,Hyderabad,Social Media
+1523,2023-01-17,Bangalore,Paid Search
+1524,2024-11-08,Mumbai,Organic
+1525,2024-05-31,Delhi,Paid Search
+1526,2023-06-22,Delhi,Organic
+1527,2023-05-21,Mumbai,Paid Search
+1528,2023-03-12,Mumbai,Organic
+1529,2023-12-02,Lucknow,Organic
+1530,2024-06-18,delhi,Email
+1531,2024-02-19,Patna,Social Media
+1532,2024-09-17,Patna,Social Media
+1533,2023-09-02,Mumbai,Paid Search
+1534,2023-07-17,Pune,Social Media
+1535,2023-12-06,Hyderabad,Email
+1536,2023-05-24,Chennai,Social Media
+1537,2024-11-23,Mumbai,Social Media
+1538,2023-05-12,Delhi,Paid Search
+1539,2023-12-06,Mumbai,Paid Search
+1540,2024-01-06,HYDERABAD,Social Media
+1541,2023-02-10,Patna,Email
+1542,2023-11-29,Chennai,Paid Search
+1543,2023-11-19,Pune,Paid Search
+1544,2023-07-04,Patna,Paid Search
+1545,2023-04-01,Chennai,Paid Search
+1546,2023-02-02,Mumbai,Email
+1547,2023-01-07,Jaipur,Social Media
+1548,2023-12-08,Bengaluru,Paid Search
+1549,2023-03-05,Mumbai,Paid Search
+1550,2024-11-12,Hyderabad,Paid Search
+1551,2023-06-23,Lucknow,Organic
+1552,2024-04-08,Delhi,Paid Search
+1553,2024-04-23,Bengaluru,Referral
+1554,2023-12-18,Delhi,Social Media
+1555,2024-09-19,Mumbai,Organic
+1556,2023-03-20,Mumbai,Social Media
+1557,2023-06-16,Pune,Social Media
+1558,2023-06-29,Jaipur,Organic
+1559,2023-04-07,Mumbai,Social Media
+1560,2023-07-29,Delhi,Social Media
+1561,2023-08-11,Delhi,Referral
+1562,2024-06-27,Mumbai,Organic
+1563,2023-08-03,Hyderabad,Organic
+1564,2024-09-14,Chennai,Paid Search
+1565,2024-07-02,Chennai,Organic
+1566,2024-10-02,Bengaluru,Paid Search
+1567,2023-03-16,Hyderabad,Referral
+1568,2024-11-30,Mumbai,Organic
+1569,2024-03-11,Mumbai,Paid Search
+1570,2024-11-28,Lucknow,Email
+1571,2023-09-09,Pune,Paid Search
+1572,2024-11-07,Lucknow,Paid Search
+1573,2024-02-22,Lucknow,Social Media
+1574,2023-02-20,Chennai,Organic
+1575,2023-10-19,Lucknow,Organic
+1576,2023-04-08,Bengaluru,Social Media
+1577,2024-10-30,Mumbai,Paid Search
+1578,2023-08-05,Mumbai,Organic
+1579,2023-06-07,Mumbai,Organic
+1580,2024-01-28,Mumbai,Referral
+1581,2023-10-29,Bengaluru,Organic
+1582,2023-03-10,Chennai,Social Media
+1583,2024-08-02,Kolkata,Paid Search
+1584,2024-08-23,Hyderabad,Social Media
+1585,2024-06-11,Mumbai,Organic
+1586,2024-03-13,Pune,Organic
+1587,2023-10-13,bengaluru,Paid Search
+1588,2024-01-21,Mumbai,Social Media
+1589,2024-01-05,Delhi,Organic
+1590,2023-04-28,Delhi,Paid Search
+1591,2023-02-28,,Paid Search
+1592,2023-06-29,Kolkata,Organic
+1593,2023-11-19,Pune,Social Media
+1594,2023-04-24,Chennai,Organic
+1595,2023-03-17,Mumbai,Paid Search
+1596,2024-08-27,Kolkata,Organic
+1597,2023-09-24,Chennai,Paid Search
+1598,2024-02-19,Delhi,Paid Search
+1599,2024-01-08,Chennai,Paid Search
+1600,2024-06-05,Bengaluru,Paid Search
+1601,2024-06-09,Bengaluru,Email
+1602,2023-07-30,Mumbai,Paid Search
+1603,2024-08-25,Hyderabad,Referral
+1604,2023-09-21,Mumbai,Organic
+1605,2024-08-15,Mumbai,Paid Search
+1606,2023-10-15,Mumbai,Organic
+1607,2023-03-20,Lucknow,Paid Search
+1608,2024-06-23,Delhi,Social Media
+1609,2023-01-22,Bengaluru,Referral
+1610,2024-07-02,Delhi,Social Media
+1611,2023-01-31,Jaipur,Social Media
+1612,2023-05-27,Hyderabad,Organic
+1613,2024-03-04,Lucknow,Organic
+1614,2024-10-30,Delhi,Referral
+1615,2023-10-18,mumbai,Organic
+1616,2023-03-27,Hyderabad,Organic
+1617,2023-06-15,Bengaluru,Email
+1618,2024-09-28,Kolkata,Email
+1619,2024-05-30,Jaipur,Social Media
+1620,2023-03-13,Bengaluru,Paid Search
+1621,2023-10-01,Patna,Referral
+1622,2023-07-07,Hyderabad,Organic
+1623,2023-05-07,Delhi,Paid Search
+1624,2024-08-23,Bengaluru,Paid Search
+1625,2024-03-14,Mumbai,Email
+1626,2023-05-08,Kolkata,Email
+1627,2024-04-06,Mumbai,Social Media
+1628,2023-10-21,Delhi,Organic
+1629,2023-02-13,Hyderabad,Paid Search
+1630,2023-11-16,Mumbai ,Organic
+1631,2023-05-12,Mumbai,Email
+1632,2023-06-24,Chennai,Organic
+1633,2024-09-16,mumbai,Organic
+1634,2024-05-19,Bengaluru,Social Media
+1635,2023-04-06,Delhi,Paid Search
+1636,2024-08-27,Delhi,Referral
+1637,2024-02-12,Delhi,Organic
+1638,2024-09-12,Pune,Referral
+1639,2024-06-14,Lucknow,Organic
+1640,2023-08-29,Mumbai,Organic
+1641,2024-01-15,Lucknow,Paid Search
+1642,2024-01-12,Hyderabad,Organic
+1643,2024-05-26,Chennai,Social Media
+1644,2023-06-26,Chennai,Organic
+1645,2023-08-25,Chennai,Organic
+1646,2023-06-23,Kolkata,Social Media
+1647,2023-07-30,Bengaluru,Organic
+1648,2023-04-25,Hyderabad,Social Media
+1649,2023-01-26,Delhi,Social Media
+1650,2024-10-29,Mumbai,Organic
+1651,2023-02-22,Chennai,Referral
+1652,2024-09-22,Mumbai,Organic
+1653,2023-01-03,Delhi,Paid Search
+1654,2024-07-05,Mumbai,Organic
+1655,2023-08-22,Delhi,Referral
+1656,2024-01-03,Chennai,Social Media
+1657,2023-07-20,Chennai,Paid Search
+1658,2023-12-15,BENGALURU ,Email
+1659,2023-11-17,Mumbai,Paid Search
+1660,2024-01-12,Bengaluru,Email
+1661,2023-10-07,Bengaluru,Social Media
+1662,2024-01-16,Pune,Email
+1663,2024-08-09,Hyderabad,Email
+1664,2023-11-05,Bengaluru,Email
+1665,2023-09-14,Bengaluru,Organic
+1666,2023-04-04,Patna,Referral
+1667,2023-09-13,Pune,Referral
+1668,2023-03-31,Bengaluru,Social Media
+1669,2023-05-10,Bengaluru,Organic
+1670,2024-11-07,Mumbai,Email
+1671,2023-03-05,Lucknow,Organic
+1672,2023-12-09,Delhi,Paid Search
+1673,2024-08-15,Delhi,Paid Search
+1674,2024-11-07,Patna,Organic
+1675,2023-04-15,Pune,Social Media
+1676,2023-04-27,Mumbai,Organic
+1677,2023-09-22,Mumbai,Social Media
+1678,2024-01-29,Mumbai ,Referral
+1679,2024-11-12,Hyderabad,Paid Search
+1680,2023-05-28,Mumbai,Social Media
+1681,2023-04-27,Lucknow,Organic
+1682,2023-06-29,Lucknow,Referral
+1683,2024-09-12,Hyderabad,Email
+1684,2023-01-22,Hyderabad,Organic
+1685,2023-09-27,Delhi,Social Media
+1686,2023-03-26,Mumbai,Paid Search
+1687,2023-04-22,Pune,Paid Search
+1688,2024-10-12,Mumbai,Social Media
+1689,2023-01-02,Mumbai,Paid Search
+1690,2023-08-17,Delhi,Social Media
+1691,2024-10-11,Mumbai ,Organic
+1692,2024-03-07,BENGALURU ,Paid Search
+1693,2023-02-20,Chennai,Email
+1694,2023-11-27,Kolkata,Organic
+1695,2024-11-20,Hyderabad,Social Media
+1696,2023-10-12,Kolkata,Organic
+1697,2024-01-11,Bengaluru,Referral
+1698,2024-01-13,Kolkata,Social Media
+1699,2024-04-13,Hyderabad,Paid Search
+1700,2023-05-13,Delhi,Organic
+1701,2024-08-19,,Paid Search
+1702,2024-12-02,Delhi,Email
+1703,2023-04-12,Mumbai,Paid Search
+1704,2024-08-03,Delhi,Paid Search
+1705,2024-08-03,Bengaluru,Social Media
+1706,2024-06-10,BENGALURU ,Paid Search
+1707,2023-09-21,Hyderabad,Paid Search
+1708,2023-11-29,Jaipur,Paid Search
+1709,2024-08-18,Delhi,Organic
+1710,2023-04-19,Hyderabad,Social Media
+1711,2024-08-11,Bengaluru,Email
+1712,2024-10-15,Kolkata,Email
+1713,2024-04-29,Mumbai,Email
+1714,2023-08-31,Mumbai,Paid Search
+1715,2024-02-01,Hyderabad,Organic
+1716,2023-02-05,Chennai,Social Media
+1717,2024-10-23,Kolkata,Email
+1718,2023-09-01,Hyderabad,Social Media
+1719,2023-02-10,Pune,Paid Search
+1720,2024-07-18,Bengaluru,Social Media
+1721,2024-04-11,Mumbai,Referral
+1722,2024-03-18,mumbai,Email
+1723,2023-02-08,Mumbai,Referral
+1724,2024-06-17,Delhi,Paid Search
+1725,2024-03-28,Bengaluru,Organic
+1726,2024-07-17,Bengaluru,Paid Search
+1727,2024-08-10,Hyderabad,Paid Search
+1728,2023-05-31,Bengaluru,Email
+1729,2023-05-30,Chennai,Paid Search
+1730,2024-10-17,Chennai,Paid Search
+1731,2024-01-13,Delhi,Paid Search
+1732,2023-11-07,Bengaluru,Social Media
+1733,2023-07-23,Hyderabad,Paid Search
+1734,2024-03-29,Hyderabad,Organic
+1735,2024-06-19,Delhi,Email
+1736,2023-01-02,New Delhi,Paid Search
+1737,2024-01-28,Chennai,Paid Search
+1738,2024-12-06,Chennai,Organic
+1739,2023-07-19,Mumbai,Social Media
+1740,2023-07-19,,Social Media
+1741,2024-09-15,Jaipur,Email
+1742,2023-02-14,Mumbai,Organic
+1743,2023-10-10,Kolkata,Email
+1744,2023-11-22,Mumbai,Social Media
+1745,2024-07-20,Hyderabad,Organic
+1746,2023-04-02,Bengaluru,Organic
+1747,2023-11-05,Mumbai,Organic
+1748,2023-04-19,Lucknow,Email
+1749,2024-07-13,bengaluru,Organic
+1750,2024-03-24,Lucknow,Paid Search
+1751,2023-12-19,Delhi,Social Media
+1752,2023-10-06,Jaipur,Email
+1753,2023-04-19,Lucknow,Social Media
+1754,2024-10-16,Hyderabad,Referral
+1755,2024-04-04,Delhi,Organic
+1756,2023-08-15,Chennai,Email
+1757,2023-10-21,Hyderabad,Organic
+1758,2024-05-30,Lucknow,Organic
+1759,2024-05-25,Bangalore,Email
+1760,2023-11-24,Delhi,Organic
+1761,2023-08-04,mumbai,Organic
+1762,2024-04-13,Chennai,Social Media
+1763,2024-04-12,Patna,Paid Search
+1764,2024-03-01,Mumbai,Organic
+1765,2023-02-21,Pune,Social Media
+1766,2023-12-02,Lucknow,Referral
+1767,2024-03-11,Mumbai,Referral
+1768,2024-11-05,Mumbai,Organic
+1769,2024-01-09,Chennai,Social Media
+1770,2023-09-01,Chennai,Referral
+1771,2024-01-30,Mumbai,Organic
+1772,2023-05-06,Kolkata,Organic
+1773,2023-03-06,Hyderabad,Organic
+1774,2024-04-26,Jaipur,Paid Search
+1775,2024-12-01,Jaipur,Organic
+1776,2024-08-23,Kolkata,Social Media
+1777,2024-02-19,Hyderabad,Email
+1778,2023-01-29,Delhi,Organic
+1779,2024-12-02,Hyderabad,Social Media
+1780,2023-11-16,Mumbai,Organic
+1781,2023-07-25,Chennai,Organic
+1782,2024-09-25,Mumbai,Referral
+1783,2024-06-13,Hyderabad,Paid Search
+1784,2024-06-16,Mumbai,Email
+1785,2023-07-17,Delhi,Paid Search
+1786,2024-12-05,Delhi,Organic
+1787,2023-11-18,Chennai,Paid Search
+1788,2024-01-13,Pune,Organic
+1789,2024-06-17,Mumbai,Email
+1790,2024-04-13,Kolkata,Social Media
+1791,2023-05-03,Jaipur,Paid Search
+1792,2023-08-03,bengaluru,Paid Search
+1793,2023-09-14,Chennai,Social Media
+1794,2024-11-03,Bengaluru,Referral
+1795,2024-05-22,Mumbai,Organic
+1796,2023-09-18,Hyderabad,Organic
+1797,2024-06-05,Mumbai,Organic
+1798,2024-06-08,Jaipur,Paid Search
+1799,2023-10-07,Lucknow,Paid Search
+1800,2023-10-14,Kolkata,Organic
+1801,2024-09-26,Hyderabad,Paid Search
+1802,2024-02-03,Hyderabad,Paid Search
+1803,2023-04-17,Patna,Organic
+1804,2024-05-26,Delhi,Email
+1805,2024-02-23,Mumbai,Social Media
+1806,2023-12-28,Hyderabad,Paid Search
+1807,2024-05-29,Delhi,Paid Search
+1808,2024-10-06,Delhi,Paid Search
+1809,2023-08-23,Mumbai,Email
+1810,2023-10-25,Hyderabad,Social Media
+1811,2023-05-15,Delhi,Paid Search
+1812,2024-04-04,Delhi,Email
+1813,2023-10-13,Mumbai,Referral
+1814,2023-09-01,Bengaluru,Referral
+1815,2024-05-09,Jaipur,Organic
+1816,2023-10-17,Delhi,Organic
+1817,2023-11-26,Chennai,Social Media
+1818,2023-11-09,Pune,Paid Search
+1819,2023-07-03,Delhi,Social Media
+1820,2023-03-31,Kolkata,Referral
+1821,2024-08-10,Chennai,Organic
+1822,2023-03-07,Hyderabad,Organic
+1823,2023-08-19,Mumbai,Paid Search
+1824,2024-04-18,Mumbai,Organic
+1825,2023-04-04,Patna,Social Media
+1826,2024-04-10,Pune,Social Media
+1827,2024-06-04,Lucknow,Paid Search
+1828,2024-04-15,Jaipur,Social Media
+1829,2023-08-05,Mumbai,Paid Search
+1830,2023-01-15,Kolkata,Social Media
+1831,2024-09-22,Bengaluru,Organic
+1832,2023-08-20,Pune,Social Media
+1833,2024-07-25,mumbai,Social Media
+1834,2023-05-21,Delhi,Organic
+1835,2023-04-26,Pune,Social Media
+1836,2024-07-06,Kolkata,Email
+1837,2024-10-29,Hyderabad,Organic
+1838,2024-09-03,Delhi,Social Media
+1839,2024-06-17,Delhi,Email
+1840,2023-06-25,Patna,Email
+1841,2024-10-10,Bengaluru,Paid Search
+1842,2024-04-19,Bengaluru,Social Media
+1843,2023-05-03,Hyderabad,Email
+1844,2023-04-02,Bengaluru,Social Media
+1845,2024-09-10,Hyderabad,Organic
+1846,2023-07-15,Bengaluru,Organic
+1847,2024-06-27,Kolkata,Referral
+1848,2023-04-09,Jaipur,Paid Search
+1849,2023-07-19,Lucknow,Organic
+1850,2023-07-21,Hyderabad,Paid Search
+1851,2023-07-19,Bengaluru,Referral
+1852,2024-04-24,Chennai,Paid Search
+1853,2024-10-11,Kolkata,Email
+1854,2024-10-08,Hyderabad,Social Media
+1855,2024-06-10,Chennai,Email
+1856,2023-05-24,Pune,Email
+1857,2024-11-13,Chennai,Organic
+1858,2024-01-20,Pune,Social Media
+1859,2024-01-23,Delhi,Organic
+1860,2024-05-12,Bengaluru,Email
+1861,2024-06-30,HYDERABAD,Organic
+1862,2024-11-07,Mumbai,Social Media
+1863,2024-02-18,Kolkata,Referral
+1864,2024-03-09,Hyderabad,Organic
+1865,2024-06-13,Mumbai,Referral
+1866,2023-07-01,Kolkata,Organic
+1867,2023-08-07,Pune,Paid Search
+1868,2024-03-20,Pune,Paid Search
+1869,2023-02-15,Bengaluru,Paid Search
+1870,2023-08-16,Kolkata,Social Media
+1871,2024-05-24,Bengaluru,Email
+1872,2024-11-24,,Paid Search
+1873,2024-01-04,Mumbai,Social Media
+1874,2023-10-11,Chennai,Email
+1875,2023-11-09,Pune,Referral
+1876,2024-05-01,Hyderabad,Organic
+1877,2024-01-22,bengaluru,Email
+1878,2023-01-17,Kolkata,Organic
+1879,2024-01-18,Chennai,Social Media
+1880,2023-10-12,Delhi,Social Media
+1881,2024-05-12,Lucknow,Referral
+1882,2024-09-13,Chennai,Organic
+1883,2024-11-14,Patna,Organic
+1884,2024-03-09,Patna,Referral
+1885,2023-09-15,Lucknow,Organic
+1886,2023-11-12,Pune,Paid Search
+1887,2023-05-06,HYDERABAD,Social Media
+1888,2024-10-26,Delhi,Social Media
+1889,2024-08-24,Hyderabad,Organic
+1890,2024-08-29,Pune,Paid Search
+1891,2023-08-21,Hyderabad,Email
+1892,2023-08-17,Jaipur,Paid Search
+1893,2024-08-31,Mumbai ,Organic
+1894,2024-01-22,bengaluru,Organic
+1895,2024-05-15,Hyderabad,Paid Search
+1896,2023-12-14,Bengaluru,Email
+1897,2023-11-11,Mumbai,Paid Search
+1898,2024-03-24,Mumbai,Organic
+1899,2024-07-31,Kolkata,Paid Search
+1900,2023-08-26,Bengaluru,Organic
+1901,2024-07-28,Mumbai,Organic
+1902,2023-06-23,Mumbai,Email
+1903,2023-10-14,Bengaluru,Social Media
+1904,2024-10-09,Mumbai,Organic
+1905,2024-11-08,Chennai,Paid Search
+1906,2024-10-17,Kolkata,Organic
+1907,2023-08-13,Delhi,Organic
+1908,2024-08-21,Hyderabad,Social Media
+1909,2024-10-26,Mumbai,Paid Search
+1910,2024-11-25,Delhi,Social Media
+1911,2023-01-15,Jaipur,Email
+1912,2024-06-12,Hyderabad,Organic
+1913,2024-12-08,Jaipur,Email
+1914,2024-06-26,Delhi,Paid Search
+1915,2023-06-15,Delhi,Organic
+1916,2024-06-25,Bengaluru,Referral
+1917,2023-03-16,Bengaluru,Organic
+1918,2023-12-08,Patna,Social Media
+1919,2024-03-20,Mumbai,Social Media
+1920,2023-11-21,Kolkata,Organic
+1921,2024-05-11,Jaipur,Email
+1922,2023-06-20,Hyderabad,Organic
+1923,2024-03-06,Bengaluru,Referral
+1924,2024-04-02,Hyderabad,Organic
+1925,2024-03-25,Delhi,Organic
+1926,2023-07-25,Kolkata,Paid Search
+1927,2023-08-05,Bengaluru,Email
+1928,2023-07-03,Lucknow,Organic
+1929,2023-11-24,Chennai,Email
+1930,2024-02-21,Hyderabad,Organic
+1931,2023-09-15,Pune,Paid Search
+1932,2023-10-19,hyderabad,Paid Search
+1933,2023-07-23,Jaipur,Organic
+1934,2023-06-05,Delhi,Email
+1935,2024-04-11,Patna,Paid Search
+1936,2024-08-02,Kolkata,Social Media
+1937,2023-07-26,Jaipur,Social Media
+1938,2024-09-03,Bengaluru,Paid Search
+1939,2024-02-10,Kolkata,Social Media
+1940,2023-04-30,Delhi,Email
+1941,2023-09-17,Pune,Social Media
+1942,2023-01-06,Mumbai ,Paid Search
+1943,2023-01-28,Delhi,Social Media
+1944,2023-08-27,Bangalore,Social Media
+1945,2023-11-19,Delhi,Paid Search
+1946,2024-07-20,Bengaluru,Social Media
+1947,2023-04-06,Kolkata,Paid Search
+1948,2024-08-18,Delhi,Referral
+1949,2023-06-16,,Email
+1950,2023-04-09,Mumbai,Email
+1951,2024-05-11,Pune,Referral
+1952,2024-07-03,Kolkata,Social Media
+1953,2024-03-05,Bengaluru,Social Media
+1954,2023-03-24,Pune,Organic
+1955,2023-03-23,Lucknow,Paid Search
+1956,2023-10-04,Kolkata,Organic
+1957,2023-11-16,Bengaluru,Organic
+1958,2024-12-10,BENGALURU ,Email
+1959,2023-07-23,Pune,Email
+1960,2023-05-17,Delhi,Paid Search
+1961,2024-11-02,Kolkata,Organic
+1962,2023-04-20,Delhi,Social Media
+1963,2023-01-19,Kolkata,Paid Search
+1964,2023-10-28,Mumbai,Referral
+1965,2023-10-12,Mumbai,Email
+1966,2024-03-15,Patna,Paid Search
+1967,2024-09-15,Jaipur,Organic
+1968,2024-10-24,Jaipur,Organic
+1969,2023-07-25,Lucknow,Organic
+1970,2024-11-27,Bengaluru,Paid Search
+1971,2024-03-25,Delhi,Organic
+1972,2023-02-19,Mumbai,Organic
+1973,2024-10-28,Hyderabad,Organic
+1974,2023-04-08,Delhi,Organic
+1975,2024-02-22,Lucknow,Social Media
+1976,2024-07-15,Mumbai,Organic
+1977,2023-06-27,Mumbai,Email
+1978,2023-07-12,Delhi,Organic
+1979,2023-12-05,Delhi,Organic
+1980,2024-09-20,Delhi,Organic
+1981,2023-06-08,Chennai,Social Media
+1982,2024-04-16,Delhi,Organic
+1983,2023-11-18,Hyderabad,Paid Search
+1984,2023-03-21,Jaipur,Organic
+1985,2024-05-19,Hyderabad,Email
+1986,2024-08-14,Chennai,Organic
+1987,2024-02-13,Bengaluru,Paid Search
+1988,2023-05-06,Mumbai,Email
+1989,2023-04-21,Delhi,Organic
+1990,2023-10-28,Patna,Organic
+1991,2023-12-26,Chennai,Referral
+1992,2024-01-28,Delhi,Organic
+1993,2023-06-22,Bengaluru,Organic
+1994,2023-12-22,Kolkata,Paid Search
+1995,2023-07-29,Chennai,Organic
+1996,2024-05-02,HYDERABAD,Email
+1997,2024-07-19,Jaipur,Social Media
+1998,2024-04-08,Chennai,Social Media
+1999,2023-01-01,Chennai,Organic
+2000,2024-12-05,New Delhi,Social Media
+2001,2023-01-17,Mumbai,Social Media
+2002,2024-12-10,Patna,Organic
+2003,2023-01-23,hyderabad,Email
+2004,2024-01-02,Bengaluru,Social Media
+2005,2023-03-17,Hyderabad,Referral
+2006,2023-03-09,Mumbai,Organic
+2007,2024-04-30,Kolkata,Organic
+2008,2024-05-31,Delhi,Social Media
+2009,2023-03-25,Kolkata,Referral
+2010,2024-11-24,HYDERABAD,Paid Search
+2011,2023-08-16,Delhi,Organic
+2012,2023-08-15,Mumbai,Referral
+2013,2023-07-30,Kolkata,Organic
+2014,2023-11-24,Delhi,Paid Search
+2015,2023-05-07,Mumbai,Social Media
+2016,2023-10-29,Pune,Organic
+2017,2023-05-30,Bengaluru,Organic
+2018,2023-02-06,Bengaluru,Organic
+2019,2023-09-19,Delhi,Email
+2020,2024-04-22,Kolkata,Paid Search
+2021,2024-06-25,Delhi,Social Media
+2022,2023-09-08,Delhi,Email
+2023,2023-08-18,Delhi,Social Media
+2024,2024-07-13,delhi,Paid Search
+2025,2024-04-28,Delhi,Paid Search
+2026,2024-08-13,Mumbai,Paid Search
+2027,2024-10-05,Mumbai,Social Media
+2028,2024-08-06,Bengaluru,Email
+2029,2024-10-26,Jaipur,Referral
+2030,2023-10-23,Mumbai,Paid Search
+2031,2023-10-08,delhi,Paid Search
+2032,2023-08-17,Jaipur,Email
+2033,2023-06-17,Jaipur,Organic
+2034,2024-06-15,Chennai,Referral
+2035,2024-05-22,Delhi,Organic
+2036,2024-07-22,Bengaluru,Social Media
+2037,2023-04-29,Delhi,Referral
+2038,2023-12-15,Mumbai,Paid Search
+2039,2023-06-07,Bengaluru,Organic
+2040,2024-09-26,Hyderabad,Referral
+2041,2023-07-09,BENGALURU ,Paid Search
+2042,2023-04-13,Hyderabad,Paid Search
+2043,2024-02-09,delhi,Paid Search
+2044,2024-09-16,Bengaluru,Paid Search
+2045,2024-10-12,Kolkata,Social Media
+2046,2023-03-10,Jaipur,Organic
+2047,2023-08-20,Delhi,Paid Search
+2048,2023-04-20,Hyderabad,Email
+2049,2023-08-07,Delhi,Organic
+2050,2024-01-15,Mumbai,Paid Search
+2051,2023-07-19,Pune,Social Media
+2052,2023-02-17,New Delhi,Email
+2053,2023-12-29,bengaluru,Social Media
+2054,2023-02-07,Bengaluru,Referral
+2055,2023-06-10,Delhi,Organic
+2056,2023-01-01,Mumbai,Paid Search
+2057,2023-03-03,Bengaluru,Email
+2058,2023-11-06,Lucknow,Email
+2059,2024-08-27,Hyderabad,Social Media
+2060,2024-07-03,BENGALURU ,Paid Search
+2061,2023-03-12,Mumbai,Paid Search
+2062,2023-01-25,Hyderabad,Organic
+2063,2023-08-29,Mumbai,Email
+2064,2024-04-08,Hyderabad,Referral
+2065,2024-06-14,Pune,Paid Search
+2066,2024-08-07,Bengaluru,Organic
+2067,2023-08-31,New Delhi,Paid Search
+2068,2023-04-30,Mumbai,Organic
+2069,2023-01-19,Mumbai ,Social Media
+2070,2023-04-15,Bengaluru,Social Media
+2071,2023-02-16,Jaipur,Organic
+2072,2024-09-03,Delhi,Social Media
+2073,2023-07-10,HYDERABAD,Email
+2074,2024-08-07,Chennai,Organic
+2075,2024-01-28,Mumbai,Paid Search
+2076,2024-01-18,Mumbai,Paid Search
+2077,2023-11-19,Delhi,Organic
+2078,2024-08-04,Chennai,Paid Search
+2079,2023-01-31,Bengaluru,Social Media
+2080,2023-03-07,Pune,Organic
+2081,2023-10-28,Jaipur,Organic
+2082,2023-10-08,Pune,Email
+2083,2024-01-23,Patna,Paid Search
+2084,2024-06-07,Pune,Social Media
+2085,2024-02-22,Kolkata,Social Media
+2086,2023-07-02,Kolkata,Referral
+2087,2023-08-21,Pune,Social Media
+2088,2024-06-18,Kolkata,Referral
+2089,2023-05-24,Lucknow,Social Media
+2090,2023-12-24,Bengaluru,Paid Search
+2091,2024-01-18,Chennai,Paid Search
+2092,2024-06-16,Hyderabad,Paid Search
+2093,2024-05-22,Kolkata,Paid Search
+2094,2023-11-26,Bengaluru,Organic
+2095,2023-08-08,Kolkata,Paid Search
+2096,2023-09-19,Kolkata,Paid Search
+2097,2023-10-20,Patna,Organic
+2098,2023-06-05,Delhi,Organic
+2099,2024-03-20,Chennai,Referral
+2100,2023-05-28,Pune,Social Media
+2101,2024-04-05,Lucknow,Referral
+2102,2024-06-17,Jaipur,Paid Search
+2103,2024-11-13,Hyderabad,Email
+2104,2023-03-26,Hyderabad,Referral
+2105,2024-06-23,Mumbai,Organic
+2106,2023-03-03,Patna,Email
+2107,2023-08-28,Delhi,Organic
+2108,2023-05-06,Pune,Social Media
+2109,2023-04-26,Kolkata,Referral
+2110,2023-05-05,,Paid Search
+2111,2023-02-01,Delhi,Social Media
+2112,2024-08-07,Delhi,Paid Search
+2113,2023-02-13,Kolkata,Organic
+2114,2023-10-10,Hyderabad,Organic
+2115,2024-05-11,Mumbai ,Organic
+2116,2024-12-04,Pune,Organic
+2117,2024-08-29,Delhi,Social Media
+2118,2023-04-08,Jaipur,Paid Search
+2119,2024-12-02,Delhi,Paid Search
+2120,2024-04-09,delhi,Social Media
+2121,2023-05-08,Mumbai,Organic
+2122,2023-11-15,Hyderabad,Organic
+2123,2024-10-13,Bengaluru,Referral
+2124,2023-10-06,Pune,Email
+2125,2023-05-11,Bengaluru,Paid Search
+2126,2024-09-13,Bengaluru,Organic
+2127,2024-11-07,Delhi,Referral
+2128,2024-11-23,Delhi,Email
+2129,2024-11-09,Lucknow,Paid Search
+2130,2024-09-11,Mumbai,Organic
+2131,2023-11-19,Patna,Organic
+2132,2023-05-17,delhi,Social Media
+2133,2024-03-14,Mumbai,Email
+2134,2023-06-06,Delhi,Social Media
+2135,2023-12-02,mumbai,Paid Search
+2136,2024-04-10,Kolkata,Social Media
+2137,2024-11-03,hyderabad,Referral
+2138,2023-07-25,delhi,Paid Search
+2139,2023-06-28,Chennai,Referral
+2140,2024-06-05,Chennai,Paid Search
+2141,2023-01-05,Lucknow,Paid Search
+2142,2024-02-07,Patna,Social Media
+2143,2024-06-13,Chennai,Paid Search
+2144,2024-01-27,Kolkata,Email
+2145,2023-09-30,Kolkata,Paid Search
+2146,2024-08-11,Bengaluru,Paid Search
+2147,2023-09-21,Chennai,Paid Search
+2148,2024-05-19,Mumbai,Paid Search
+2149,2023-11-26,Pune,Paid Search
+2150,2023-01-19,Patna,Social Media
+2151,2024-01-12,Mumbai,Paid Search
+2152,2023-02-05,Kolkata,Paid Search
+2153,2024-10-22,Lucknow,Social Media
+2154,2024-03-03,Delhi,Organic
+2155,2023-09-22,Hyderabad,Social Media
+2156,2023-12-12,Lucknow,Paid Search
+2157,2024-03-15,Patna,Paid Search
+2158,2023-07-04,Mumbai,Social Media
+2159,2023-07-24,Bengaluru,Referral
+2160,2023-10-25,Chennai,Referral
+2161,2023-07-03,delhi,Paid Search
+2162,2024-06-22,Delhi,Paid Search
+2163,2023-03-15,Mumbai,Social Media
+2164,2024-08-09,Mumbai,Social Media
+2165,2023-09-05,Hyderabad,Social Media
+2166,2024-02-03,Chennai,Social Media
+2167,2023-04-23,Chennai,Referral
+2168,2023-10-01,Pune,Organic
+2169,2024-06-19,Bengaluru,Social Media
+2170,2023-07-12,Delhi,Organic
+2171,2023-04-04,Mumbai,Paid Search
+2172,2024-01-06,Delhi,Social Media
+2173,2023-04-26,Delhi,Paid Search
+2174,2023-08-12,Delhi,Paid Search
+2175,2023-11-16,mumbai,Email
+2176,2024-02-05,Mumbai,Referral
+2177,2024-03-29,Chennai,Paid Search
+2178,2024-04-25,Chennai,Email
+2179,2024-08-22,Lucknow,Paid Search
+2180,2023-02-16,Kolkata,Referral
+2181,2023-09-15,Hyderabad,Organic
+2182,2023-01-01,Mumbai,Organic
+2183,2023-01-07,Hyderabad,Paid Search
+2184,2023-05-31,Mumbai,Organic
+2185,2024-02-29,Bengaluru,Paid Search
+2186,2024-09-27,Bengaluru,Organic
+2187,2024-07-03,Bengaluru,Social Media
+2188,2024-04-03,Delhi,Organic
+2189,2024-07-06,Chennai,Organic
+2190,2023-05-03,Kolkata,Email
+2191,2024-08-19,Pune,Social Media
+2192,2024-09-24,Chennai,Email
+2193,2023-03-09,Hyderabad,Paid Search
+2194,2023-11-30,Mumbai ,Organic
+2195,2024-08-12,Pune,Social Media
+2196,2023-12-05,Hyderabad,Social Media
+2197,2024-08-19,Delhi,Organic
+2198,2024-10-26,Delhi,Email
+2199,2023-12-04,Lucknow,Social Media
+2200,2023-02-12,Chennai,Social Media
+2201,2023-08-30,Bengaluru,Paid Search
+2202,2023-06-02,Chennai,Social Media
+2203,2023-12-03,Bengaluru,Organic
+2204,2024-02-20,BENGALURU ,Email
+2205,2023-11-26,Delhi,Paid Search
+2206,2023-05-19,Bengaluru,Organic
+2207,2023-08-02,Chennai,Organic
+2208,2024-04-27,Mumbai,Social Media
+2209,2023-01-20,Kolkata,Email
+2210,2023-06-02,Delhi,Email
+2211,2024-09-25,Chennai,Social Media
+2212,2023-03-12,Chennai,Email
+2213,2023-10-22,Chennai,Social Media
+2214,2023-05-27,Hyderabad,Paid Search
+2215,2023-03-16,Lucknow,Social Media
+2216,2023-10-28,Hyderabad,Organic
+2217,2024-01-06,Pune,Organic
+2218,2023-05-06,,Paid Search
+2219,2023-02-25,Delhi,Organic
+2220,2023-04-06,Delhi,Email
+2221,2024-04-07,Bengaluru,Email
+2222,2024-09-02,Delhi,Paid Search
+2223,2023-05-09,BENGALURU ,Social Media
+2224,2023-08-16,Bengaluru,Paid Search
+2225,2023-09-02,Hyderabad,Organic
+2226,2023-09-14,Delhi,Paid Search
+2227,2023-06-23,Kolkata,Organic
+2228,2023-02-09,Bengaluru,Paid Search
+2229,2024-01-08,Chennai,Organic
+2230,2023-09-11,Mumbai,Organic
+2231,2023-09-01,Bengaluru,Organic
+2232,2023-07-08,Mumbai,Email
+2233,2024-10-21,Chennai,Organic
+2234,2024-03-09,Bengaluru,Paid Search
+2235,2023-10-25,Lucknow,Paid Search
+2236,2023-05-26,Delhi,Paid Search
+2237,2024-07-22,Hyderabad,Paid Search
+2238,2024-09-22,Delhi,Organic
+2239,2023-01-23,Chennai,Social Media
+2240,2024-10-22,Bengaluru,Social Media
+2241,2024-05-11,Bengaluru,Social Media
+2242,2023-03-12,delhi,Social Media
+2243,2024-06-18,Mumbai,Paid Search
+2244,2023-03-18,Mumbai,Paid Search
+2245,2023-02-06,Patna,Organic
+2246,2023-03-23,Bengaluru,Paid Search
+2247,2023-11-23,Mumbai,Organic
+2248,2024-03-15,Lucknow,Paid Search
+2249,2023-10-17,Mumbai,Social Media
+2250,2023-03-28,Bengaluru,Organic
+2251,2023-05-22,Pune,Organic
+2252,2024-08-28,Lucknow,Social Media
+2253,2024-11-14,Pune,Paid Search
+2254,2024-06-19,BENGALURU ,Referral
+2255,2023-03-15,Patna,Email
+2256,2024-08-05,Mumbai ,Email
+2257,2024-05-06,Patna,Paid Search
+2258,2024-01-09,Kolkata,Organic
+2259,2023-04-12,Lucknow,Social Media
+2260,2024-12-08,Delhi,Social Media
+2261,2023-11-11,Mumbai,Social Media
+2262,2023-02-01,Chennai,Paid Search
+2263,2023-05-30,Hyderabad,Organic
+2264,2023-10-12,Hyderabad,Organic
+2265,2023-02-14,Lucknow,Organic
+2266,2023-08-18,Chennai,Organic
+2267,2023-11-29,Delhi,Email
+2268,2024-11-04,Bengaluru,Organic
+2269,2023-03-03,mumbai,Social Media
+2270,2024-02-14,Delhi,Email
+2271,2024-10-12,Mumbai,Paid Search
+2272,2024-07-26,Kolkata,Paid Search
+2273,2024-10-18,Chennai,Social Media
+2274,2023-05-01,Hyderabad,Paid Search
+2275,2024-07-22,BENGALURU ,Paid Search
+2276,2024-11-25,Chennai,Referral
+2277,2023-08-20,Kolkata,Social Media
+2278,2023-12-21,Jaipur,Referral
+2279,2024-01-12,Hyderabad,Email
+2280,2023-12-17,Kolkata,Paid Search
+2281,2023-07-25,Hyderabad,Social Media
+2282,2024-11-20,Bengaluru,Social Media
+2283,2024-11-10,Jaipur,Social Media
+2284,2023-09-28,Bengaluru,Social Media
+2285,2024-07-25,Bengaluru,Social Media
+2286,2023-10-10,Delhi,Email
+2287,2024-07-18,hyderabad,Paid Search
+2288,2024-02-20,Hyderabad,Social Media
+2289,2023-11-30,Chennai,Organic
+2290,2023-04-01,Bengaluru,Social Media
+2291,2024-04-09,Delhi,Referral
+2292,2023-08-16,Jaipur,Referral
+2293,2023-06-03,Bangalore,Paid Search
+2294,2023-05-18,Lucknow,Paid Search
+2295,2024-11-28,Delhi,Paid Search
+2296,2023-03-15,Hyderabad,Organic
+2297,2024-07-20,Hyderabad,Organic
+2298,2024-09-06,Kolkata,Email
+2299,2023-01-23,Mumbai,Paid Search
+2300,2024-02-23,Jaipur,Email
+2301,2024-02-14,hyderabad,Organic
+2302,2023-09-12,Hyderabad,Social Media
+2303,2024-04-18,Hyderabad,Social Media
+2304,2023-10-18,mumbai,Social Media
+2305,2023-11-09,Bengaluru,Social Media
+2306,2023-11-03,Delhi,Social Media
+2307,2024-07-22,Bengaluru,Email
+2308,2024-03-25,Chennai,Social Media
+2309,2023-09-27,Bengaluru,Organic
+2310,2024-10-20,Mumbai,Organic
+2311,2024-07-23,Mumbai,Social Media
+2312,2024-10-24,Delhi,Paid Search
+2313,2024-06-02,Delhi,Paid Search
+2314,2023-10-05,Hyderabad,Social Media
+2315,2024-07-02,Delhi,Paid Search
+2316,2023-08-22,Jaipur,Referral
+2317,2023-07-12,Delhi,Social Media
+2318,2023-11-17,Mumbai,Social Media
+2319,2024-11-19,Jaipur,Social Media
+2320,2024-02-08,Delhi,Email
+2321,2023-09-30,Bengaluru,Social Media
+2322,2023-11-24,Lucknow,Email
+2323,2023-07-26,Lucknow,Organic
+2324,2024-04-12,Pune,Social Media
+2325,2023-09-06,Mumbai,Social Media
+2326,2024-01-29,Hyderabad,Paid Search
+2327,2023-09-20,Patna,Organic
+2328,2023-08-16,Lucknow,Social Media
+2329,2024-11-19,mumbai,Paid Search
+2330,2023-09-03,Bangalore,Email
+2331,2023-02-20,Delhi,Paid Search
+2332,2023-09-26,Mumbai,Organic
+2333,2024-01-13,Chennai,Social Media
+2334,2023-03-09,Delhi,Paid Search
+2335,2023-08-06,Bengaluru,Organic
+2336,2023-04-28,Mumbai,Social Media
+2337,2023-12-22,Bengaluru,Paid Search
+2338,2024-05-28,mumbai,Organic
+2339,2024-11-18,Bengaluru,Social Media
+2340,2023-10-04,Mumbai,Social Media
+2341,2024-09-04,Lucknow,Referral
+2342,2023-06-02,Mumbai,Paid Search
+2343,2024-07-08,Hyderabad,Organic
+2344,2024-02-04,Delhi,Email
+2345,2024-06-22,Mumbai,Social Media
+2346,2024-06-20,Delhi,Organic
+2347,2024-01-14,mumbai,Referral
+2348,2023-07-02,Mumbai ,Organic
+2349,2024-01-09,Bengaluru,Referral
+2350,2024-08-10,Chennai,Social Media
+2351,2024-11-20,Mumbai,Email
+2352,2024-10-20,Bengaluru,Email
+2353,2023-05-09,Hyderabad,Organic
+2354,2024-02-29,Delhi,Referral
+2355,2023-03-16,Bengaluru,Paid Search
+2356,2024-04-19,Mumbai,Social Media
+2357,2024-12-05,Delhi,Social Media
+2358,2023-02-07,Bengaluru,Organic
+2359,2024-04-11,Patna,Organic
+2360,2024-11-02,Patna,Organic
+2361,2024-08-24,Patna,Organic
+2362,2023-10-06,Bangalore,Organic
+2363,2023-03-15,,Email
+2364,2024-10-17,Delhi,Paid Search
+2365,2024-10-16,Delhi,Referral
+2366,2024-02-16,Mumbai,Referral
+2367,2024-11-26,Mumbai,Social Media
+2368,2023-01-04,Bengaluru,Paid Search
+2369,2024-03-13,delhi,Email
+2370,2023-01-28,Delhi,Social Media
+2371,2024-10-26,Pune,Social Media
+2372,2024-04-28,Bengaluru,Email
+2373,2024-10-10,Kolkata,Social Media
+2374,2024-02-04,Delhi,Paid Search
+2375,2023-03-01,Hyderabad,Email
+2376,2023-01-19,Delhi,Paid Search
+2377,2023-08-27,Bengaluru,Referral
+2378,2024-06-11,Mumbai,Organic
+2379,2023-04-18,mumbai,Organic
+2380,2024-08-28,hyderabad,Paid Search
+2381,2023-06-20,Delhi,Organic
+2382,2023-12-19,Delhi,Email
+2383,2023-05-25,Lucknow,Organic
+2384,2023-11-27,Mumbai,Social Media
+2385,2023-11-18,hyderabad,Organic
+2386,2023-01-04,Hyderabad,Email
+2387,2024-02-08,Delhi,Paid Search
+2388,2024-07-12,Bengaluru,Organic
+2389,2024-10-26,Mumbai,Organic
+2390,2023-08-23,Pune,Social Media
+2391,2024-09-17,delhi,Email
+2392,2024-09-15,Delhi,Email
+2393,2024-12-02,Delhi,Paid Search
+2394,2023-09-22,Jaipur,Paid Search
+2395,2024-08-27,Kolkata,Organic
+2396,2024-02-06,Lucknow,Paid Search
+2397,2023-02-11,Chennai,Social Media
+2398,2023-07-11,Chennai,Organic
+2399,2024-04-22,Bengaluru,Social Media
+2400,2023-04-25,Jaipur,Email
+2401,2023-11-05,Hyderabad,Organic
+2402,2024-07-04,Bengaluru,Organic
+2403,2023-04-17,Chennai,Organic
+2404,2023-12-19,Hyderabad,Organic
+2405,2023-06-02,Mumbai ,Organic
+2406,2024-01-16,Bengaluru,Social Media
+2407,2023-06-20,delhi,Organic
+2408,2024-11-16,Kolkata,Social Media
+2409,2023-02-24,Bengaluru,Email
+2410,2024-11-15,Kolkata,Email
+2411,2024-07-16,Bengaluru,Social Media
+2412,2024-08-30,Pune,Organic
+2413,2024-08-27,Mumbai,Organic
+2414,2023-05-14,Lucknow,Organic
+2415,2024-10-23,Bengaluru,Email
+2416,2024-02-26,delhi,Email
+2417,2024-11-14,delhi,Paid Search
+2418,2024-09-15,delhi,Paid Search
+2419,2024-02-16,Bengaluru,Paid Search
+2420,2023-09-23,Pune,Organic
+2421,2023-03-25,Lucknow,Email
+2422,2023-03-13,Chennai,Organic
+2423,2023-10-04,Hyderabad,Paid Search
+2424,2024-07-29,Bengaluru,Paid Search
+2425,2023-12-25,Kolkata,Organic
+2426,2023-12-09,Kolkata,Paid Search
+2427,2023-06-23,Delhi,Email
+2428,2024-02-05,Lucknow,Organic
+2429,2024-03-29,Bengaluru,Social Media
+2430,2024-11-28,Kolkata,Paid Search
+2431,2024-06-01,Patna,Organic
+2432,2024-03-07,Chennai,Organic
+2433,2024-10-08,Mumbai,Organic
+2434,2023-10-29,Hyderabad,Organic
+2435,2024-10-25,Mumbai,Paid Search
+2436,2023-09-20,Pune,Referral
+2437,2023-04-01,Delhi,Social Media
+2438,2023-10-24,Chennai,Email
+2439,2023-04-02,Lucknow,Paid Search
+2440,2023-03-26,Delhi,Social Media
+2441,2024-09-17,Bengaluru,Social Media
+2442,2024-07-18,Chennai,Organic
+2443,2023-06-07,Bengaluru,Paid Search
+2444,2024-08-17,delhi,Paid Search
+2445,2023-02-18,Mumbai,Referral
+2446,2023-07-21,Bengaluru,Paid Search
+2447,2024-05-16,Chennai,Organic
+2448,2023-08-04,Hyderabad,Email
+2449,2024-06-02,Mumbai,Organic
+2450,2024-09-12,Bengaluru,Email
+2451,2023-02-16,Bengaluru,Referral
+2452,2023-01-18,Delhi,Referral
+2453,2024-10-29,Pune,Referral
+2454,2024-01-05,Delhi,Organic
+2455,2023-12-26,Hyderabad,Social Media
+2456,2023-11-26,Lucknow,Referral
+2457,2023-11-04,Hyderabad,Social Media
+2458,2024-05-04,Hyderabad,Organic
+2459,2024-02-16,Mumbai,Organic
+2460,2023-04-27,Delhi,Paid Search
+2461,2024-03-20,Mumbai,Paid Search
+2462,2024-04-19,Pune,Social Media
+2463,2023-03-22,Kolkata,Referral
+2464,2023-09-25,Delhi,Referral
+2465,2024-07-15,Delhi,Social Media
+2466,2024-03-15,Delhi,Organic
+2467,2023-04-07,hyderabad,Paid Search
+2468,2023-01-29,Chennai,Paid Search
+2469,2024-02-17,Chennai,Organic
+2470,2023-11-24,Jaipur,Organic
+2471,2024-11-13,Delhi,Paid Search
+2472,2024-01-06,Chennai,Organic
+2473,2024-10-23,Hyderabad,Social Media
+2474,2023-06-02,Delhi,Organic
+2475,2023-11-14,Jaipur,Organic
+2476,2023-04-10,Mumbai,Organic
+2477,2024-02-12,Pune,Social Media
+2478,2023-05-14,Pune,Social Media
+2479,2023-12-16,Lucknow,Paid Search
+2480,2023-09-02,Hyderabad,Organic
+2481,2023-05-12,Delhi,Email
+2482,2023-03-10,Kolkata,Social Media
+2483,2023-12-30,Pune,Social Media
+2484,2024-11-03,Hyderabad,Paid Search
+2485,2023-05-22,Pune,Referral
+2486,2023-10-15,Delhi,Email
+2487,2023-06-09,Hyderabad,Paid Search
+2488,2024-07-28,Jaipur,Social Media
+2489,2023-10-22,Delhi,Organic
+2490,2024-11-22,Bengaluru,Social Media
+2491,2023-06-24,Lucknow,Paid Search
+2492,2023-02-27,Kolkata,Organic
+2493,2024-02-18,Jaipur,Email
+2494,2024-04-07,Bengaluru,Email
+2495,2024-12-04,Patna,Organic
+2496,2024-09-10,Mumbai,Email
+2497,2024-09-19,Hyderabad,Paid Search
+2498,2024-03-26,Bengaluru,Paid Search
+2499,2023-09-13,Kolkata,Email
+2500,2023-11-01,Jaipur,Paid Search
+2501,2023-04-05,Pune,Paid Search
+2502,2023-11-03,Chennai,Social Media
+2503,2023-09-16,Bengaluru,Organic
+2504,2023-01-26,HYDERABAD,Paid Search
+2505,2023-05-26,Hyderabad,Paid Search
+2506,2024-01-15,Mumbai,Social Media
+2507,2023-09-20,hyderabad,Organic
+2508,2024-12-06,Kolkata,Organic
+2509,2023-12-06,Chennai,Social Media
+2510,2024-11-11,Kolkata,Organic
+2511,2024-04-14,,Paid Search
+2512,2023-01-29,Hyderabad,Social Media
+2513,2023-05-25,Mumbai,Referral
+2514,2024-05-16,Bengaluru,Organic
+2515,2024-01-23,Bengaluru,Email
+2516,2023-08-03,Delhi,Social Media
+2517,2024-01-06,Mumbai,Paid Search
+2518,2024-10-03,Chennai,Referral
+2519,2023-10-03,Bengaluru,Social Media
+2520,2023-02-02,Bengaluru,Social Media
+2521,2023-08-09,Delhi,Social Media
+2522,2024-10-26,Hyderabad,Social Media
+2523,2024-06-24,Bengaluru,Email
+2524,2024-08-17,Bengaluru,Social Media
+2525,2024-10-09,Hyderabad,Referral
+2526,2023-03-25,,Social Media
+2527,2023-07-20,Jaipur,Email
+2528,2023-02-12,Mumbai,Email
+2529,2023-01-04,Bengaluru,Organic
+2530,2024-08-15,Delhi,Organic
+2531,2024-10-27,Hyderabad,Social Media
+2532,2023-04-21,Delhi,Paid Search
+2533,2024-05-27,Jaipur,Social Media
+2534,2024-01-15,Bengaluru,Referral
+2535,2023-02-19,Chennai,Email
+2536,2024-10-12,Delhi,Paid Search
+2537,2024-09-10,Mumbai,Social Media
+2538,2024-02-07,Bengaluru,Organic
+2539,2024-05-17,Hyderabad,Paid Search
+2540,2023-10-10,Bengaluru,Organic
+2541,2024-07-16,Patna,Paid Search
+2542,2023-11-12,Chennai,Paid Search
+2543,2024-12-03,Patna,Social Media
+2544,2023-02-14,Delhi,Social Media
+2545,2023-05-03,Pune,Paid Search
+2546,2024-11-18,Hyderabad,Organic
+2547,2023-07-25,Hyderabad,Organic
+2548,2023-08-09,Patna,Email
+2549,2024-07-15,Chennai,Email
+2550,2023-05-15,Jaipur,Paid Search
+2551,2023-12-31,Pune,Organic
+2552,2023-07-23,Mumbai,Paid Search
+2553,2023-05-21,Chennai,Social Media
+2554,2024-11-15,Bengaluru,Paid Search
+2555,2023-05-22,Lucknow,Organic
+2556,2023-03-08,Kolkata,Paid Search
+2557,2024-04-23,Mumbai,Organic
+2558,2024-09-07,Mumbai,Paid Search
+2559,2023-04-01,Mumbai,Organic
+2560,2024-05-17,Bengaluru,Social Media
+2561,2024-01-19,Mumbai,Paid Search
+2562,2024-08-12,Pune,Organic
+2563,2023-04-01,Hyderabad,Social Media
+2564,2024-11-23,Kolkata,Paid Search
+2565,2024-03-15,Delhi,Referral
+2566,2024-08-20,Hyderabad,Email
+2567,2023-09-14,Mumbai,Organic
+2568,2024-10-31,Jaipur,Email
+2569,2024-03-20,,Social Media
+2570,2023-04-01,Mumbai,Social Media
+2571,2024-10-17,delhi,Paid Search
+2572,2024-07-19,Kolkata,Paid Search
+2573,2023-08-02,Mumbai,Organic
+2574,2024-01-23,Hyderabad,Email
+2575,2023-10-03,Pune,Social Media
+2576,2024-01-21,Pune,Paid Search
+2577,2024-11-16,Delhi,Paid Search
+2578,2024-09-30,Mumbai,Organic
+2579,2023-06-03,Bengaluru,Organic
+2580,2024-11-20,Delhi,Social Media
+2581,2023-11-07,Chennai,Paid Search
+2582,2024-05-15,Bengaluru,Referral
+2583,2024-06-26,Bengaluru,Social Media
+2584,2023-12-09,Mumbai,Social Media
+2585,2023-11-21,Hyderabad,Referral
+2586,2023-11-21,Delhi,Organic
+2587,2024-09-04,Chennai,Social Media
+2588,2023-10-02,Mumbai,Social Media
+2589,2023-07-18,Patna,Organic
+2590,2023-09-14,Chennai,Organic
+2591,2023-05-19,Delhi,Organic
+2592,2023-10-05,Mumbai,Organic
+2593,2023-03-22,Delhi,Paid Search
+2594,2023-03-05,Mumbai,Organic
+2595,2024-05-28,Delhi,Social Media
+2596,2023-02-24,Jaipur,Organic
+2597,2024-02-08,Hyderabad,Organic
+2598,2024-07-07,Delhi,Paid Search
+2599,2024-05-29,Hyderabad,Organic
+2600,2023-11-13,Delhi,Email
+2601,2023-05-18,Patna,Paid Search
+2602,2024-10-22,Mumbai,Organic
+2603,2024-08-15,Pune,Organic
+2604,2024-03-10,Pune,Paid Search
+2605,2023-03-03,Mumbai,Social Media
+2606,2023-01-25,Delhi,Referral
+2607,2023-08-12,Bengaluru,Paid Search
+2608,2023-04-22,Jaipur,Social Media
+2609,2024-09-02,Hyderabad,Paid Search
+2610,2023-05-27,Chennai,Referral
+2611,2023-07-20,Pune,Social Media
+2612,2024-11-23,Kolkata,Organic
+2613,2024-08-03,Bengaluru,Social Media
+2614,2023-06-05,Hyderabad,Referral
+2615,2023-09-30,Pune,Paid Search
+2616,2024-01-02,Delhi,Email
+2617,2024-04-16,Kolkata,Email
+2618,2024-10-26,Mumbai,Organic
+2619,2024-09-10,Delhi,Referral
+2620,2024-11-24,Kolkata,Social Media
+2621,2023-01-29,Bengaluru,Paid Search
+2622,2023-06-17,mumbai,Paid Search
+2623,2024-02-04,Delhi,Email
+2624,2023-02-04,Hyderabad,Social Media
+2625,2023-09-10,Kolkata,Paid Search
+2626,2023-04-20,Mumbai ,Organic
+2627,2024-10-24,Mumbai,Paid Search
+2628,2023-02-14,Bengaluru,Email
+2629,2023-04-16,Lucknow,Social Media
+2630,2023-05-19,Delhi,Organic
+2631,2023-04-16,Lucknow,Email
+2632,2024-02-08,Jaipur,Referral
+2633,2023-09-16,Delhi,Paid Search
+2634,2024-10-09,Kolkata,Organic
+2635,2023-07-05,Chennai,Social Media
+2636,2024-01-17,Hyderabad,Organic
+2637,2024-04-13,Bengaluru,Paid Search
+2638,2024-03-20,Kolkata,Social Media
+2639,2024-07-19,Kolkata,Email
+2640,2023-05-24,Pune,Paid Search
+2641,2023-12-27,Patna,Email
+2642,2024-07-22,Bengaluru,Email
+2643,2024-09-04,Kolkata,Organic
+2644,2024-03-14,Jaipur,Organic
+2645,2024-04-07,New Delhi,Social Media
+2646,2024-09-05,Mumbai,Referral
+2647,2024-03-19,Bengaluru,Paid Search
+2648,2024-11-04,Kolkata,Social Media
+2649,2023-04-01,Delhi,Social Media
+2650,2023-09-05,Chennai,Social Media
+2651,2023-03-21,Mumbai ,Social Media
+2652,2023-03-06,Bangalore,Organic
+2653,2023-12-02,Hyderabad,Organic
+2654,2023-06-10,Mumbai,Organic
+2655,2023-10-17,Jaipur,Email
+2656,2023-11-07,Mumbai,Email
+2657,2024-03-16,Jaipur,Referral
+2658,2024-11-02,Delhi,Organic
+2659,2024-08-26,Patna,Social Media
+2660,2023-09-26,,Organic
+2661,2023-08-20,Mumbai,Paid Search
+2662,2024-07-01,Mumbai,Organic
+2663,2023-03-29,Mumbai,Referral
+2664,2024-01-19,Hyderabad,Organic
+2665,2023-10-28,Kolkata,Social Media
+2666,2023-05-10,Bengaluru,Email
+2667,2024-03-13,Bengaluru,Social Media
+2668,2023-08-16,Hyderabad,Organic
+2669,2023-05-12,Hyderabad,Email
+2670,2024-04-08,Chennai,Social Media
+2671,2023-05-04,Bengaluru,Paid Search
+2672,2024-04-22,Pune,Social Media
+2673,2023-04-26,Patna,Email
+2674,2023-11-05,Bengaluru,Paid Search
+2675,2024-07-27,Mumbai ,Paid Search
+2676,2023-06-12,Mumbai,Paid Search
+2677,2024-06-29,Hyderabad,Organic
+2678,2024-05-27,Bengaluru,Referral
+2679,2024-10-02,Lucknow,Organic
+2680,2023-04-30,Chennai,Paid Search
+2681,2024-05-22,Hyderabad,Paid Search
+2682,2024-10-27,Kolkata,Organic
+2683,2024-06-25,Delhi,Paid Search
+2684,2023-05-14,Kolkata,Social Media
+2685,2024-08-06,Mumbai,Paid Search
+2686,2023-03-18,HYDERABAD,Organic
+2687,2024-02-23,Lucknow,Email
+2688,2023-12-20,Pune,Email
+2689,2024-01-13,Kolkata,Paid Search
+2690,2024-01-04,Bengaluru,Paid Search
+2691,2023-01-23,Kolkata,Organic
+2692,2023-12-27,Hyderabad,Organic
+2693,2024-10-27,Hyderabad,Paid Search
+2694,2023-11-07,Mumbai,Email
+2695,2023-07-16,Delhi,Social Media
+2696,2024-12-07,Hyderabad,Paid Search
+2697,2023-03-12,Mumbai,Email
+2698,2023-12-12,Pune,Paid Search
+2699,2023-12-30,Kolkata,Organic
+2700,2023-12-06,,Paid Search
+2701,2024-10-16,Mumbai,Organic
+2702,2023-10-27,Lucknow,Email
+2703,2024-11-22,Mumbai,Paid Search
+2704,2023-02-17,Bengaluru,Social Media
+2705,2024-06-05,Kolkata,Paid Search
+2706,2024-02-25,Mumbai,Email
+2707,2023-06-20,Mumbai,Social Media
+2708,2023-06-11,Mumbai,Paid Search
+2709,2024-05-25,Hyderabad,Organic
+2710,2024-03-28,Kolkata,Email
+2711,2024-03-09,Mumbai,Paid Search
+2712,2023-02-06,Mumbai,Organic
+2713,2024-02-29,Hyderabad,Email
+2714,2024-11-27,Delhi,Organic
+2715,2023-01-13,Pune,Paid Search
+2716,2023-11-29,Lucknow,Paid Search
+2717,2023-12-18,Pune,Paid Search
+2718,2024-09-28,Jaipur,Paid Search
+2719,2023-07-20,Hyderabad,Organic
+2720,2023-12-04,Kolkata,Organic
+2721,2024-05-24,Delhi,Organic
+2722,2023-02-12,Mumbai,Organic
+2723,2024-07-22,Chennai,Email
+2724,2024-08-06,Mumbai,Social Media
+2725,2024-05-25,Jaipur,Paid Search
+2726,2024-04-05,Chennai,Paid Search
+2727,2024-06-14,Lucknow,Social Media
+2728,2024-07-09,Delhi,Organic
+2729,2024-10-03,Bengaluru,Organic
+2730,2023-11-01,Pune,Social Media
+2731,2023-11-20,Delhi,Paid Search
+2732,2024-03-28,Hyderabad,Referral
+2733,2023-05-18,Chennai,Email
+2734,2024-08-30,Patna,Referral
+2735,2024-07-01,Pune,Organic
+2736,2024-03-24,Mumbai,Organic
+2737,2023-08-03,Bengaluru,Organic
+2738,2023-09-04,Hyderabad,Referral
+2739,2023-11-05,Mumbai,Email
+2740,2024-04-15,Bengaluru,Email
+2741,2024-07-06,Delhi,Organic
+2742,2024-04-22,Mumbai,Referral
+2743,2024-10-22,hyderabad,Paid Search
+2744,2024-11-13,Mumbai,Referral
+2745,2024-05-15,Hyderabad,Paid Search
+2746,2023-09-21,Mumbai,Organic
+2747,2024-03-01,Pune,Organic
+2748,2023-10-29,Delhi,Email
+2749,2024-03-22,Jaipur,Paid Search
+2750,2024-07-30,Mumbai,Paid Search
+2751,2023-09-20,Hyderabad,Paid Search
+2752,2023-12-26,New Delhi,Paid Search
+2753,2023-02-02,Delhi,Email
+2754,2024-06-06,Bengaluru,Organic
+2755,2023-12-14,Kolkata,Organic
+2756,2023-11-23,Lucknow,Referral
+2757,2024-01-14,Delhi,Paid Search
+2758,2023-06-03,Mumbai,Organic
+2759,2024-02-29,Pune,Organic
+2760,2024-06-13,Hyderabad,Organic
+2761,2023-09-06,Delhi,Organic
+2762,2023-04-04,Pune,Organic
+2763,2023-10-02,Hyderabad,Organic
+2764,2023-05-21,Chennai,Social Media
+2765,2023-09-23,Bengaluru,Email
+2766,2024-03-21,Bengaluru,Email
+2767,2023-03-22,delhi,Paid Search
+2768,2024-06-14,Pune,Paid Search
+2769,2023-06-09,Mumbai,Email
+2770,2024-09-27,Pune,Referral
+2771,2024-06-04,Kolkata,Paid Search
+2772,2023-07-13,Pune,Organic
+2773,2024-02-04,Mumbai,Paid Search
+2774,2023-03-20,Delhi,Paid Search
+2775,2023-03-12,Bengaluru,Paid Search
+2776,2024-11-09,Hyderabad,Organic
+2777,2024-07-23,Lucknow,Email
+2778,2023-04-20,Bengaluru,Social Media
+2779,2023-07-20,Jaipur,Social Media
+2780,2023-05-21,Mumbai,Organic
+2781,2023-10-08,Bengaluru,Referral
+2782,2023-07-26,Mumbai,Social Media
+2783,2023-08-21,Pune,Organic
+2784,2024-01-11,Mumbai,Social Media
+2785,2023-05-15,Delhi,Social Media
+2786,2024-09-18,Pune,Referral
+2787,2024-05-31,Hyderabad,Organic
+2788,2024-06-23,Mumbai,Email
+2789,2023-05-01,Mumbai,Paid Search
+2790,2024-05-17,hyderabad,Organic
+2791,2024-08-16,New Delhi,Organic
+2792,2023-05-05,Delhi,Organic
+2793,2024-06-17,Hyderabad,Organic
+2794,2023-09-11,delhi,Paid Search
+2795,2024-07-13,HYDERABAD,Social Media
+2796,2023-12-06,Bengaluru,Organic
+2797,2024-07-23,Delhi,Email
+2798,2023-04-15,Mumbai,Organic
+2799,2023-10-04,Delhi,Social Media
+2800,2023-07-14,Mumbai,Email
+2801,2023-06-26,delhi,Referral
+2802,2023-08-07,Jaipur,Social Media
+2803,2023-09-29,Kolkata,Social Media
+2804,2023-04-01,Bengaluru,Organic
+2805,2024-05-17,Hyderabad,Organic
+2806,2024-01-26,Hyderabad,Paid Search
+2807,2024-08-11,,Organic
+2808,2024-05-15,Delhi,Paid Search
+2809,2023-04-16,Delhi,Organic
+2810,2023-02-19,Delhi,Email
+2811,2023-10-28,Mumbai,Email
+2812,2023-12-08,Delhi,Referral
+2813,2023-06-20,Jaipur,Social Media
+2814,2024-07-09,Lucknow,Organic
+2815,2024-02-17,Mumbai,Organic
+2816,2024-06-15,Bengaluru,Social Media
+2817,2023-03-19,Bengaluru,Social Media
+2818,2024-08-01,Bengaluru,Paid Search
+2819,2023-05-27,HYDERABAD,Paid Search
+2820,2023-11-15,Mumbai,Paid Search
+2821,2023-11-08,Kolkata,Organic
+2822,2024-08-05,Patna,Paid Search
+2823,2023-07-16,Chennai,Paid Search
+2824,2023-06-20,Chennai,Social Media
+2825,2023-08-30,,Email
+2826,2023-09-14,Delhi,Paid Search
+2827,2023-05-09,Mumbai,Social Media
+2828,2023-05-06,Hyderabad,Referral
+2829,2023-06-14,Mumbai,Organic
+2830,2023-11-28,Kolkata,Social Media
+2831,2023-09-01,Bengaluru,Paid Search
+2832,2023-10-06,Bengaluru,Social Media
+2833,2024-05-25,New Delhi,Organic
+2834,2023-06-21,Patna,Email
+2835,2024-10-08,Delhi,Email
+2836,2024-06-17,Mumbai ,Organic
+2837,2023-05-05,Mumbai,Organic
+2838,2023-08-11,Chennai,Organic
+2839,2023-05-11,Patna,Referral
+2840,2023-07-13,Delhi,Social Media
+2841,2023-09-17,Jaipur,Organic
+2842,2023-04-03,Delhi,Referral
+2843,2023-01-11,Chennai,Paid Search
+2844,2023-11-08,Mumbai,Paid Search
+2845,2024-05-12,Bengaluru,Paid Search
+2846,2023-08-04,Chennai,Paid Search
+2847,2024-09-02,Hyderabad,Paid Search
+2848,2023-09-20,Delhi,Organic
+2849,2024-10-01,Kolkata,Paid Search
+2850,2023-06-17,Patna,Email
+2851,2024-01-18,Bengaluru,Paid Search
+2852,2024-06-25,Chennai,Email
+2853,2023-02-11,Kolkata,Social Media
+2854,2024-10-22,Delhi,Referral
+2855,2023-09-17,,Organic
+2856,2023-12-20,Delhi,Referral
+2857,2024-03-22,Pune,Organic
+2858,2024-04-01,Mumbai,Organic
+2859,2023-01-17,Delhi,Organic
+2860,2024-09-07,Hyderabad,Organic
+2861,2024-03-18,Hyderabad,Email
+2862,2024-12-10,Kolkata,Email
+2863,2023-12-01,Patna,Referral
+2864,2024-03-11,Mumbai,Organic
+2865,2023-11-10,Delhi,Email
+2866,2024-09-23,Bengaluru,Social Media
+2867,2024-08-13,Bengaluru,Paid Search
+2868,2024-10-07,Bengaluru,Paid Search
+2869,2023-12-25,Kolkata,Social Media
+2870,2024-07-15,Pune,Organic
+2871,2023-09-12,Mumbai,Paid Search
+2872,2023-11-24,Bengaluru,Social Media
+2873,2024-06-23,Hyderabad,Organic
+2874,2023-02-27,Bengaluru,Paid Search
+2875,2024-05-19,Mumbai,Paid Search
+2876,2023-01-12,Bengaluru,Social Media
+2877,2024-02-17,Bengaluru,Email
+2878,2023-12-05,Delhi,Referral
+2879,2023-11-29,Pune,Social Media
+2880,2023-12-17,Delhi,Social Media
+2881,2023-12-16,Hyderabad,Social Media
+2882,2023-10-17,Hyderabad,Paid Search
+2883,2023-11-17,Jaipur,Organic
+2884,2024-02-08,Mumbai,Social Media
+2885,2024-06-26,Mumbai,Social Media
+2886,2024-01-28,Delhi,Paid Search
+2887,2024-04-01,Bengaluru,Email
+2888,2024-08-16,Delhi,Social Media
+2889,2024-12-03,Pune,Paid Search
+2890,2023-03-19,Delhi,Organic
+2891,2024-05-21,Mumbai,Organic
+2892,2023-06-09,Bengaluru,Paid Search
+2893,2023-05-20,Pune,Paid Search
+2894,2024-07-17,Kolkata,Organic
+2895,2023-02-18,Pune,Organic
+2896,2024-08-24,Hyderabad,Organic
+2897,2024-07-01,Pune,Referral
+2898,2024-12-07,Chennai,Referral
+2899,2024-04-19,Delhi,Paid Search
+2900,2024-09-11,Hyderabad,Organic
+2901,2023-03-26,Pune,Organic
+2902,2024-09-23,Delhi,Organic
+2903,2023-04-24,Chennai,Paid Search
+2904,2023-08-12,Bengaluru,Organic
+2905,2023-04-02,Hyderabad,Paid Search
+2906,2023-10-13,Mumbai,Email
+2907,2024-06-15,Chennai,Paid Search
+2908,2023-07-10,Jaipur,Referral
+2909,2024-08-06,Mumbai ,Organic
+2910,2024-03-06,Bengaluru,Organic
+2911,2024-03-22,Mumbai,Email
+2912,2024-10-28,Mumbai,Paid Search
+2913,2023-11-03,Patna,Social Media
+2914,2023-09-02,Bengaluru,Email
+2915,2024-12-07,bengaluru,Social Media
+2916,2024-01-31,Delhi,Paid Search
+2917,2024-03-12,Patna,Paid Search
+2918,2023-07-30,Delhi,Organic
+2919,2023-06-02,Pune,Organic
+2920,2023-05-01,Delhi,Organic
+2921,2023-06-08,Mumbai,Email
+2922,2023-05-19,Chennai,Social Media
+2923,2024-06-14,Mumbai,Organic
+2924,2023-02-11,Chennai,Organic
+2925,2024-03-22,Delhi,Social Media
+2926,2024-11-04,Pune,Email
+2927,2024-06-27,Pune,Organic
+2928,2023-10-14,Pune,Paid Search
+2929,2023-02-12,Mumbai,Email
+2930,2024-08-15,Chennai,Email
+2931,2023-01-03,Patna,Email
+2932,2024-04-28,Delhi,Organic
+2933,2024-04-21,Delhi,Organic
+2934,2023-05-17,Kolkata,Paid Search
+2935,2024-06-09,Mumbai,Organic
+2936,2023-05-05,Chennai,Email
+2937,2023-06-10,Pune,Organic
+2938,2024-07-30,Mumbai,Social Media
+2939,2024-11-26,HYDERABAD,Email
+2940,2023-07-07,Hyderabad,Email
+2941,2024-10-16,Delhi,Social Media
+2942,2024-10-10,,Email
+2943,2024-06-30,Mumbai,Organic
+2944,2023-04-10,Bengaluru,Paid Search
+2945,2023-08-01,Kolkata,Organic
+2946,2024-04-26,Delhi,Email
+2947,2024-12-10,Kolkata,Email
+2948,2024-08-01,Mumbai,Organic
+2949,2023-10-26,bengaluru,Organic
+2950,2023-06-17,Mumbai,Paid Search
+2951,2024-11-12,Chennai,Organic
+2952,2023-07-16,Kolkata,Referral
+2953,2023-08-31,Kolkata,Organic
+2954,2024-11-15,Patna,Referral
+2955,2024-02-03,Chennai,Social Media
+2956,2023-07-07,Pune,Paid Search
+2957,2023-01-04,Hyderabad,Organic
+2958,2023-11-02,Lucknow,Email
+2959,2024-12-01,Chennai,Social Media
+2960,2023-11-04,Jaipur,Paid Search
+2961,2024-05-11,Delhi,Paid Search
+2962,2023-06-29,Bengaluru,Email
+2963,2024-07-04,Pune,Referral
+2964,2024-07-04,Delhi,Referral
+2965,2024-03-07,Delhi,Social Media
+2966,2024-07-02,Patna,Email
+2967,2024-02-15,Bengaluru,Organic
+2968,2023-09-26,Delhi,Social Media
+2969,2024-06-07,Delhi,Paid Search
+2970,2024-08-15,Bengaluru,Social Media
+2971,2024-08-20,Chennai,Email
+2972,2023-06-01,Lucknow,Email
+2973,2024-04-25,Patna,Paid Search
+2974,2023-01-04,Chennai,Social Media
+2975,2024-02-11,Chennai,Email
+2976,2024-02-10,Delhi,Email
+2977,2023-09-16,Kolkata,Referral
+2978,2024-12-06,Delhi,Organic
+2979,2024-09-18,Mumbai,Paid Search
+2980,2023-01-28,Patna,Email
+2981,2023-05-29,Jaipur,Referral
+2982,2023-05-28,Delhi,Social Media
+2983,2024-09-29,Chennai,Social Media
+2984,2024-01-04,Bengaluru,Paid Search
+2985,2024-06-01,delhi,Paid Search
+2986,2024-07-29,Delhi,Referral
+2987,2024-06-29,Mumbai,Organic
+2988,2023-03-05,Hyderabad,Social Media
+2989,2023-04-10,Bengaluru,Social Media
+2990,2023-10-08,HYDERABAD,Referral
+2991,2023-08-29,Delhi,Paid Search
+2992,2024-06-14,Lucknow,Social Media
+2993,2023-04-21,Chennai,Organic
+2994,2023-09-21,Jaipur,Organic
+2995,2023-06-17,Mumbai,Paid Search
+2996,2023-05-15,Chennai,Organic
+2997,2023-05-03,Kolkata,Email
+2998,2023-05-19,Delhi,Email
+2999,2024-02-05,Delhi,Organic
+3000,2023-10-19,New Delhi,Referral

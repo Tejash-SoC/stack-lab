@@ -1,0 +1,65 @@
+product_id,product_name,category,unit_cost,list_price
+1,Electronics Item 01,Electronics,15589.96,19040.0
+2,Electronics Item 02,Electronics,22078.37,25140.0
+3,Electronics Item 03,Electronics,1654.31,2040.0
+4,Electronics Item 04,Electronics,15347.76,18260.0
+5,Electronics Item 05,Electronics,1879.65,2280.0
+6,Electronics Item 06,Electronics,4427.8,5070.0
+7,Electronics Item 07,Electronics,10977.01,12420.0
+8,Electronics Item 08,Electronics,5299.74,6430.0
+9,Electronics Item 09,Electronics,7612.83,9270.0
+10,Electronics Item 10,Electronics,19269.49,22710.0
+11,Electronics Item 11,Electronics,14998.66,18080.0
+12,Electronics Item 12,Electronics,30712.08,36330.0
+13,Fashion Item 01,Fashion,1054.65,2400.0
+14,Fashion Item 02,Fashion,539.33,1170.0
+15,Fashion Item 03,Fashion,263.87,570.0
+16,Fashion Item 04,Fashion,971.93,2220.0
+17,Fashion Item 05,Fashion,361.75,850.0
+18,Fashion Item 06,Fashion,570.97,1180.0
+19,Fashion Item 07,Fashion,229.39,540.0
+20,Fashion Item 08,Fashion,314.58,670.0
+21,Fashion Item 09,Fashion,508.26,1090.0
+22,Fashion Item 10,Fashion,1242.94,2720.0
+23,Fashion Item 11,Fashion,447.43,980.0
+24,Fashion Item 12,Fashion,881.45,1930.0
+25,Fashion Item 13,Fashion,284.78,630.0
+26,Fashion Item 14,Fashion,1148.9,2450.0
+27,Home Item 01,Home & Kitchen,1794.85,3040.0
+28,Home Item 02,Home & Kitchen,784.13,1350.0
+29,Home Item 03,Home & Kitchen,303.08,470.0
+30,Home Item 04,Home & Kitchen,1692.14,2690.0
+31,Home Item 05,Home & Kitchen,1132.71,1920.0
+32,Home Item 06,Home & Kitchen,1488.38,2410.0
+33,Home Item 07,Home & Kitchen,1172.74,1880.0
+34,Home Item 08,Home & Kitchen,193.42,330.0
+35,Home Item 09,Home & Kitchen,362.5,610.0
+36,Home Item 10,Home & Kitchen,2796.05,4940.0
+37,Home Item 11,Home & Kitchen,221.37,360.0
+38,Home Item 12,Home & Kitchen,490.36,790.0
+39,Beauty Item 01,Beauty,291.42,720.0
+40,Beauty Item 02,Beauty,379.0,970.0
+41,Beauty Item 03,Beauty,562.61,1480.0
+42,Beauty Item 04,Beauty,62.17,160.0
+43,Beauty Item 05,Beauty,472.65,1140.0
+44,Beauty Item 06,Beauty,96.09,240.0
+45,Beauty Item 07,Beauty,95.08,230.0
+46,Beauty Item 08,Beauty,210.43,530.0
+47,Beauty Item 09,Beauty,139.16,350.0
+48,Beauty Item 10,Beauty,149.77,420.0
+49,Grocery Item 01,Grocery,53.91,70.0
+50,Grocery Item 02,Grocery,695.55,900.0
+51,Grocery Item 03,Grocery,100.68,120.0
+52,Grocery Item 04,Grocery,485.05,590.0
+53,Grocery Item 05,Grocery,166.71,210.0
+54,Grocery Item 06,Grocery,55.29,70.0
+55,Grocery Item 07,Grocery,157.12,210.0
+56,Grocery Item 08,Grocery,104.93,130.0
+57,Sports Item 01,Sports,420.49,830.0
+58,Sports Item 02,Sports,2392.84,4480.0
+59,Sports Item 03,Sports,958.14,1740.0
+60,Sports Item 04,Sports,1471.04,2710.0
+61,Sports Item 05,Sports,355.44,640.0
+62,Sports Item 06,Sports,330.83,560.0
+63,Sports Item 07,Sports,728.92,1300.0
+64,Sports Item 08,Sports,344.61,670.0
